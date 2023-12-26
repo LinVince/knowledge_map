@@ -1,0 +1,2304 @@
+{
+    "nodes": [
+        {
+            "text": "Solar Panel",
+            "type": "topic",
+            "topic": "",
+            "subtopic": "",
+            "longitude": 0,
+            "latitude": 0
+        },
+        {
+            "text": "Energy Assessments",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 1.9448637184276796,
+            "latitude": 9.225514247162854
+        },
+        {
+            "text": "Solar Urban Sustainability",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -0.24353183923132962,
+            "latitude": -0.6280347312760717
+        },
+        {
+            "text": "Renewable Solutions Integration",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 8.258986014977351,
+            "latitude": 1.5066799473081236
+        },
+        {
+            "text": "Energy Efficiency Meaasures",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -2.297671950955838,
+            "latitude": -3.441188867955547
+        },
+        {
+            "text": "Renewable Energy Transition",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -0.9950677593583354,
+            "latitude": -1.3385691910456325
+        },
+        {
+            "text": "Renewable Energy Integration",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -6.262528735656767,
+            "latitude": -4.490835843572094
+        },
+        {
+            "text": "Renewable Energy Insights",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 2.904350117399933,
+            "latitude": -1.1689533099195883
+        },
+        {
+            "text": "Solar Hybrid Technologies",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -3.5501337113695066,
+            "latitude": -0.6392725845984663
+        },
+        {
+            "text": "Solar Energy Optimization",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 1.8391041715686742,
+            "latitude": -0.643856818070525
+        },
+        {
+            "text": "Solar Panel Perception",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -8.881264909602589,
+            "latitude": 0.5415036290057531
+        },
+        {
+            "text": "Solar Energy Impact",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -7.7089946828008244,
+            "latitude": 5.83888024512027
+        },
+        {
+            "text": "Solar Energy Dynamics",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -5.742923991096868,
+            "latitude": -0.9607610415749813
+        },
+        {
+            "text": "Sustainability Analysis",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 0.247794335256798,
+            "latitude": -5.8152363707369155
+        },
+        {
+            "text": "Energy Risk Indicators",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -2.3311438612363866,
+            "latitude": -2.195184577495345
+        },
+        {
+            "text": "Solar Forecasting Solutions",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -2.8561034142088095,
+            "latitude": -0.01699178102547273
+        },
+        {
+            "text": "Solar Technology Adoption",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 6.714149668531789,
+            "latitude": -3.989027955389919
+        },
+        {
+            "text": "Solar Performance Assessment",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 1.1128237503809237,
+            "latitude": 0.28384149865470626
+        },
+        {
+            "text": "Photovoltaic Forecasting Techniques",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 8.135464920639654,
+            "latitude": -0.3092334585446388
+        },
+        {
+            "text": "Solar Energy Efficiency",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 2.237837134016823,
+            "latitude": -3.6827797827353987
+        },
+        {
+            "text": "Solar Forecasting Accuracy",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 5.041007887138498,
+            "latitude": -7.2735390205798724
+        },
+        {
+            "text": "Sustainable Technologies",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -7.606997272222496,
+            "latitude": -4.867440750563823
+        },
+        {
+            "text": "Sun-Synchronous Orbits",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -7.216360482470748,
+            "latitude": -3.1281824964794773
+        },
+        {
+            "text": "Thermal Efficiency",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -0.18817097812134306,
+            "latitude": 1.4595656815658684
+        },
+        {
+            "text": "Solar Systems Economics",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": -0.4428225571830094,
+            "latitude": -4.085857920824443
+        },
+        {
+            "text": "Solar Materials",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 2.0830239361682845,
+            "latitude": -1.2515063574939647
+        },
+        {
+            "text": "Graphene Silk Panels",
+            "type": "subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "",
+            "longitude": 1.9948138209666941,
+            "latitude": 9.407275308254743
+        },
+        {
+            "text": "Main Purpose",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 0.5370599273602998,
+            "latitude": 7.5687199907726
+        },
+        {
+            "text": "Solar System",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Urban Sustainability",
+            "longitude": -8.423043993814538,
+            "latitude": -1.84596658866446
+        },
+        {
+            "text": "Sustainability Assessment",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 0.013988983485587525,
+            "latitude": 8.19089807351968
+        },
+        {
+            "text": "Decrement Potential",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 10.582870563631282,
+            "latitude": 6.037389080911788
+        },
+        {
+            "text": "Reduce Energy",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": 4.911880055192056,
+            "latitude": -6.940877914545382
+        },
+        {
+            "text": "Driving Capabilities",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Transition",
+            "longitude": -0.22071020131555352,
+            "latitude": -1.144623762440947
+        },
+        {
+            "text": "Local Energy",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 17.251380390207686,
+            "latitude": 2.6871220151823785
+        },
+        {
+            "text": "Solar Farms",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -11.086614919578189,
+            "latitude": 0.9677075658737779
+        },
+        {
+            "text": "Average Yearly",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Insights",
+            "longitude": -1.0213913415365323,
+            "latitude": -3.9881281249292306
+        },
+        {
+            "text": "Matured Technologies",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -0.9719931907622588,
+            "latitude": 3.4007774986491337
+        },
+        {
+            "text": "Energy Simultaneously",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": 5.2970792733329315,
+            "latitude": -3.9482368537124
+        },
+        {
+            "text": "Heat Energy",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": -10.657399801164496,
+            "latitude": -1.3912549096499252
+        },
+        {
+            "text": "Main Innovation",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": -1.6649339179579872,
+            "latitude": 7.870318357397839
+        },
+        {
+            "text": "Problem Solution",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Optimization",
+            "longitude": 2.5641956940731245,
+            "latitude": -1.1172223714219027
+        },
+        {
+            "text": "Make Decisions",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Panel Perception",
+            "longitude": -12.11102796580727,
+            "latitude": -2.611112812767976
+        },
+        {
+            "text": "Present Article",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 7.656466628156094,
+            "latitude": 9.383181670298924
+        },
+        {
+            "text": "Air Pollution",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 13.234175185793797,
+            "latitude": 6.653784051598661
+        },
+        {
+            "text": "Framework",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 0.039882789695208753,
+            "latitude": 6.447640485457066
+        },
+        {
+            "text": "Studies Analysed",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Impact",
+            "longitude": -11.367255878963235,
+            "latitude": -0.003469769467765893
+        },
+        {
+            "text": "Major Phases",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Dynamics",
+            "longitude": -4.983832640933371,
+            "latitude": -0.5068647975541637
+        },
+        {
+            "text": "Expected Findings",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": 0.934970129768236,
+            "latitude": -3.1146217289293254
+        },
+        {
+            "text": "Sustainability Assessment",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 5.305909079444792,
+            "latitude": 4.513616442408648
+        },
+        {
+            "text": "Swot Method",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": -3.6140870183952827,
+            "latitude": -5.095683027907506
+        },
+        {
+            "text": "Multi-Attribute Utility",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Dynamics",
+            "longitude": -4.17490969860006,
+            "latitude": 6.2934496149472
+        },
+        {
+            "text": "Key Advantage",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 9.19011673147721,
+            "latitude": 2.5998390885106426
+        },
+        {
+            "text": "Apply Comprehensive",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 2.184654483217643,
+            "latitude": 7.8188530754325365
+        },
+        {
+            "text": "Current Study",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": 8.04291521997369,
+            "latitude": -8.744632086624845
+        },
+        {
+            "text": "Decision Tree",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Risk Indicators",
+            "longitude": -9.138808753424323,
+            "latitude": -4.768803703368986
+        },
+        {
+            "text": "Alternative Include",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Forecasting Solutions",
+            "longitude": -1.564132216403639,
+            "latitude": 4.394547760276739
+        },
+        {
+            "text": "Relative Importance",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Risk Indicators",
+            "longitude": -5.773454590388862,
+            "latitude": -1.3708994627090216
+        },
+        {
+            "text": "Principal Panel",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 3.8629587555208116,
+            "latitude": -10.65108204798245
+        },
+        {
+            "text": "Equation",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Risk Indicators",
+            "longitude": -3.6030604328590696,
+            "latitude": 7.3227304146869745
+        },
+        {
+            "text": "General Expression",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Risk Indicators",
+            "longitude": -6.94156684031995,
+            "latitude": 4.571230514875247
+        },
+        {
+            "text": "Vfs",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Forecasting Solutions",
+            "longitude": -3.0600945456295516,
+            "latitude": 0.7645522475415932
+        },
+        {
+            "text": "Parameter Definition",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Transition",
+            "longitude": 6.020194559515988,
+            "latitude": -2.823601040461601
+        },
+        {
+            "text": "Minimax Parameter",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Performance Assessment",
+            "longitude": -3.7748104877212945,
+            "latitude": -0.2544137312295159
+        },
+        {
+            "text": "Contribution",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": 0.0906217657891904,
+            "latitude": -6.717085821060774
+        },
+        {
+            "text": "Main Objective",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": 0.9442312500048851,
+            "latitude": -4.653662954363557
+        },
+        {
+            "text": "Alexandre-Edmund Becquerel",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Photovoltaic Forecasting Techniques",
+            "longitude": 13.845198770395132,
+            "latitude": 2.284995410349847
+        },
+        {
+            "text": "Factors Affect",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": -1.0588630229020035,
+            "latitude": -7.468377117160642
+        },
+        {
+            "text": "Solar Cells",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -4.010306678339532,
+            "latitude": -1.4467072927835343
+        },
+        {
+            "text": "Main Solar",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -4.577448033422361,
+            "latitude": 1.22878138282783
+        },
+        {
+            "text": "Positive Parameters",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": 4.20186119642224,
+            "latitude": -2.461903104257882
+        },
+        {
+            "text": "Highest Power",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": 2.1308618655878475,
+            "latitude": -3.2994084909550403
+        },
+        {
+            "text": "Maximum Power",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Forecasting Accuracy",
+            "longitude": 7.010236930326958,
+            "latitude": -15.420072798035022
+        },
+        {
+            "text": "Basic Concept",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -2.836179746300903,
+            "latitude": 0.43605936381309107
+        },
+        {
+            "text": "Thermal Collectors",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -11.711391396081833,
+            "latitude": 0.6200250681448957
+        },
+        {
+            "text": "Total Efficiency",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": 1.436644682890972,
+            "latitude": -0.9432381060053052
+        },
+        {
+            "text": "Electrical Efficiency",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -4.99347354532055,
+            "latitude": -1.936814666586748
+        },
+        {
+            "text": "Potential Impacts",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainable Technologies",
+            "longitude": -9.074638660200035,
+            "latitude": -6.948116152435422
+        },
+        {
+            "text": "Main Drawbacks",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -5.824842844789231,
+            "latitude": -7.9397454675990575
+        },
+        {
+            "text": "Ghg Emissions",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": -5.157538137399653,
+            "latitude": 1.0606450480764487
+        },
+        {
+            "text": "Technology Start",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 6.682208117327016,
+            "latitude": -10.806025807957782
+        },
+        {
+            "text": "Peak Kilowatts",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sun-Synchronous Orbits",
+            "longitude": -11.008063164514114,
+            "latitude": -2.076392554396255
+        },
+        {
+            "text": "Components Make",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -8.594895580043435,
+            "latitude": 2.3874202371126074
+        },
+        {
+            "text": "On-Grid System",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Photovoltaic Forecasting Techniques",
+            "longitude": 6.791503121835552,
+            "latitude": 1.5462099299016463
+        },
+        {
+            "text": "Pvt Technology",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": -0.9174699653413398,
+            "latitude": -1.1153833514124636
+        },
+        {
+            "text": "Snow Loads",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Panel Perception",
+            "longitude": -12.034360209481534,
+            "latitude": 2.9166092272423674
+        },
+        {
+            "text": "Solar Radiation",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -1.6018443428094897,
+            "latitude": 6.173896067734507
+        },
+        {
+            "text": "Nearby Walls",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": 3.9694068705454613,
+            "latitude": 8.337843369206622
+        },
+        {
+            "text": "Land Area",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -8.776760242315316,
+            "latitude": -13.794406452220109
+        },
+        {
+            "text": "Average Daily",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -2.3268154603918245,
+            "latitude": -13.257201900113529
+        },
+        {
+            "text": "Critical Aspects",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 8.394124416660054,
+            "latitude": 0.7660213432387762
+        },
+        {
+            "text": "Sunny Days",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -12.088396701654844,
+            "latitude": -9.340099347781749
+        },
+        {
+            "text": "Main Provider",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 5.476543560941334,
+            "latitude": -1.1868239892503434
+        },
+        {
+            "text": "Average Solar",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -4.899233043714601,
+            "latitude": -7.05450551464809
+        },
+        {
+            "text": "Plan Frameworks",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 16.368313341851497,
+            "latitude": 5.461915331328312
+        },
+        {
+            "text": "Support Policies",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 6.999140474415855,
+            "latitude": 8.963490071216894
+        },
+        {
+            "text": "Main Reason",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 6.695555328988788,
+            "latitude": -4.291200476119269
+        },
+        {
+            "text": "Grid-Connected Solar",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Transition",
+            "longitude": -0.9579483993407615,
+            "latitude": -1.3290082096095843
+        },
+        {
+            "text": "Paragraph Focus",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Impact",
+            "longitude": -12.062490501542033,
+            "latitude": -1.0938472945060447
+        },
+        {
+            "text": "M-Si",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Impact",
+            "longitude": -8.472343505904636,
+            "latitude": 5.590479986246257
+        },
+        {
+            "text": "Research Project",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": -5.372209504189532,
+            "latitude": -7.373145851024377
+        },
+        {
+            "text": "Flat Plate",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": 2.8983036343966337,
+            "latitude": -1.5559421722646771
+        },
+        {
+            "text": "Expected Lifetime",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": -1.5945858279486913,
+            "latitude": -8.865504720054835
+        },
+        {
+            "text": "Silicon Crystalline",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -3.996210057237707,
+            "latitude": -6.262458460227608
+        },
+        {
+            "text": "Subscribers Allocated",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Insights",
+            "longitude": 4.92798030149709,
+            "latitude": 2.220559980582155
+        },
+        {
+            "text": "Achieve Optimum",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Performance Assessment",
+            "longitude": -6.022418524390476,
+            "latitude": 2.3450720815991746
+        },
+        {
+            "text": "Current Project",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": 1.5582102734514771,
+            "latitude": -7.712812672480988
+        },
+        {
+            "text": "Studied",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Photovoltaic Forecasting Techniques",
+            "longitude": 1.183853016184413,
+            "latitude": 1.0123480382977625
+        },
+        {
+            "text": "Irradiance Abundance",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -12.309107314265418,
+            "latitude": -7.52374644091533
+        },
+        {
+            "text": "Potential Benefits",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": 4.152768824090311,
+            "latitude": -3.6635388615366176
+        },
+        {
+            "text": "Swot Matrix",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 6.929103673991441,
+            "latitude": -4.307607532313027
+        },
+        {
+            "text": "Macro Climatic",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": -5.250099429843059,
+            "latitude": 0.3407329309858187
+        },
+        {
+            "text": "Investment Profitability",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Performance Assessment",
+            "longitude": 2.4924221806328677,
+            "latitude": -2.4425078866520376
+        },
+        {
+            "text": "Implementation Cost",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Risk Indicators",
+            "longitude": -2.2845956441613806,
+            "latitude": -2.134827201572063
+        },
+        {
+            "text": "Implementation Cost",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Graphene Silk Panels",
+            "longitude": 1.606508012535411,
+            "latitude": 9.999527313052461
+        },
+        {
+            "text": "Solar System",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": 0.9226490519722343,
+            "latitude": -4.558329203295033
+        },
+        {
+            "text": "Average Capital",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": 0.14952635913881668,
+            "latitude": -1.532262277431736
+        },
+        {
+            "text": "Climatical Shading",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": 2.070849265078465,
+            "latitude": 1.4217222018238882
+        },
+        {
+            "text": "Average Cost",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": -5.696726421555992,
+            "latitude": -8.178612965795317
+        },
+        {
+            "text": "Non-Oecd Countries",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 2.6947967074218004,
+            "latitude": -2.7971664664055105
+        },
+        {
+            "text": "Exchange Rate",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 1.9588581972450854,
+            "latitude": -4.207891856699256
+        },
+        {
+            "text": "Installation Activities",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainable Technologies",
+            "longitude": -14.96317600498773,
+            "latitude": -9.481772325395186
+        },
+        {
+            "text": "Ice Database",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Urban Sustainability",
+            "longitude": 9.240164783098743,
+            "latitude": 2.3895727750415228
+        },
+        {
+            "text": "Balance Calculated",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": -1.5068815236663575,
+            "latitude": -3.148991606866706
+        },
+        {
+            "text": "Eea Air",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainable Technologies",
+            "longitude": -2.238472737091203,
+            "latitude": 2.2030105409317224
+        },
+        {
+            "text": "Reduction Indicator",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -2.0784487956675646,
+            "latitude": -0.9527841849119971
+        },
+        {
+            "text": "Ori Derived",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Risk Indicators",
+            "longitude": -0.46365259335392084,
+            "latitude": -0.6035815082349629
+        },
+        {
+            "text": "Severity",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Risk Indicators",
+            "longitude": 1.2775554089596266,
+            "latitude": -9.995409766528239
+        },
+        {
+            "text": "Measured",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Risk Indicators",
+            "longitude": 5.042180597203467,
+            "latitude": 1.8424411551678048
+        },
+        {
+            "text": "Wet Conditions",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Optimization",
+            "longitude": -2.0020151184097483,
+            "latitude": -3.9777538755872883
+        },
+        {
+            "text": "Construction Sites",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Risk Indicators",
+            "longitude": -12.20377180584856,
+            "latitude": -2.156044863496368
+        },
+        {
+            "text": "Compatibility",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Impact",
+            "longitude": -5.565236584777926,
+            "latitude": 5.090941736101319
+        },
+        {
+            "text": "Change",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": -3.7181262876994543,
+            "latitude": -3.2517005763005713
+        },
+        {
+            "text": "Iranian",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 3.146523010796497,
+            "latitude": 1.6153946703914945
+        },
+        {
+            "text": "Parameters",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainable Technologies",
+            "longitude": -6.893844328309761,
+            "latitude": -4.175107758003041
+        },
+        {
+            "text": "Functions",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Forecasting Solutions",
+            "longitude": -9.078242122527268,
+            "latitude": -2.4270515060895312
+        },
+        {
+            "text": "Graph Depict",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Performance Assessment",
+            "longitude": -2.137746300494018,
+            "latitude": -8.493075447623102
+        },
+        {
+            "text": "Apv",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": -3.167786163831097,
+            "latitude": -11.381606477653555
+        },
+        {
+            "text": "Important Ghg",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": -0.2770871032783275,
+            "latitude": 2.556468343395908
+        },
+        {
+            "text": "Reduction Potential",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -2.3439148603983133,
+            "latitude": -0.2345267927664576
+        },
+        {
+            "text": "Indicators Assessed",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": 0.6993936978454813,
+            "latitude": -6.108447017202684
+        },
+        {
+            "text": "Economic Benefits",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": -0.9406753343847827,
+            "latitude": -13.197400956632144
+        },
+        {
+            "text": "Approaches",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Urban Sustainability",
+            "longitude": -4.502676367119772,
+            "latitude": -2.8106579959363227
+        },
+        {
+            "text": "Current Study",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Impact",
+            "longitude": -13.954682619972083,
+            "latitude": -0.5737301615048578
+        },
+        {
+            "text": "Expected Benefit",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 7.952169926159131,
+            "latitude": 2.7408556908965993
+        },
+        {
+            "text": "Private Solar",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": 8.335884107997115,
+            "latitude": -4.908710615196123
+        },
+        {
+            "text": "Organic Solar",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -4.573971492669831,
+            "latitude": -3.982250128166926
+        },
+        {
+            "text": "Solar Cell",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -5.975743744259453,
+            "latitude": 0.6500808664322183
+        },
+        {
+            "text": "Model Designed",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": 0.4336866418045321,
+            "latitude": -6.919406448023254
+        },
+        {
+            "text": "Environmentally Friendly",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": -4.366530840450447,
+            "latitude": -4.613157386106023
+        },
+        {
+            "text": "Apv",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 6.273775604600189,
+            "latitude": 1.3758160637401295
+        },
+        {
+            "text": "Crystalline Silicon",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -3.4943030804337116,
+            "latitude": -6.117204375618801
+        },
+        {
+            "text": "Multidisciplinary Experts",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 5.879198884507557,
+            "latitude": -12.877823619220793
+        },
+        {
+            "text": "Types Generally",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Photovoltaic Forecasting Techniques",
+            "longitude": 14.469698569213024,
+            "latitude": 1.0168365785847284
+        },
+        {
+            "text": "Common",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Impact",
+            "longitude": -5.78703714612374,
+            "latitude": 10.407610644214007
+        },
+        {
+            "text": "Thinner Films",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Graphene Silk Panels",
+            "longitude": 1.8432846752836636,
+            "latitude": 6.633655566279904
+        },
+        {
+            "text": "C-Si Cells",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -4.674530596505286,
+            "latitude": 7.384983514874535
+        },
+        {
+            "text": "Third-Generation",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -0.08910802674796514,
+            "latitude": -5.639115925249821
+        },
+        {
+            "text": "Millennium Technology",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 1.0898890571661743,
+            "latitude": -0.9624771072600629
+        },
+        {
+            "text": "Organic Solar",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -5.621371871176331,
+            "latitude": -3.3053563841579376
+        },
+        {
+            "text": "Outdoor Usage",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Graphene Silk Panels",
+            "longitude": -3.0796085213118243,
+            "latitude": 2.9398074888313426
+        },
+        {
+            "text": "Main Challenges",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -10.402623550650166,
+            "latitude": -6.518461752259634
+        },
+        {
+            "text": "Conventional Flat",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": 1.3454977670244452,
+            "latitude": -4.163540666073232
+        },
+        {
+            "text": "Systems",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": 3.738908876544706,
+            "latitude": 0.18385162590129778
+        },
+        {
+            "text": "Unglazed",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": -2.8733004287887924,
+            "latitude": 1.0166800056866085
+        },
+        {
+            "text": "Current Studies",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Impact",
+            "longitude": -10.515333827457646,
+            "latitude": 2.7467883362240064
+        },
+        {
+            "text": "Ice Database",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Urban Sustainability",
+            "longitude": -2.6539066328367213,
+            "latitude": 0.6083794441175361
+        },
+        {
+            "text": "Tehran Annual",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": -2.585232111050365,
+            "latitude": -12.854965163644412
+        },
+        {
+            "text": "Nomenclature",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Performance Assessment",
+            "longitude": 3.0711822783958156,
+            "latitude": 5.3211845487185006
+        },
+        {
+            "text": "Air Pollution",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": 5.6241452129794105,
+            "latitude": 3.4264976737919803
+        },
+        {
+            "text": "Particulate Matter",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainable Technologies",
+            "longitude": 0.4120038316184802,
+            "latitude": -4.818158793168386
+        },
+        {
+            "text": "International Renewable",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Urban Sustainability",
+            "longitude": 2.653785588236343,
+            "latitude": -3.325580440916709
+        },
+        {
+            "text": "Solar Energy",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Transition",
+            "longitude": 1.5798259893739623,
+            "latitude": -0.8327205173992352
+        },
+        {
+            "text": "United Nations",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Urban Sustainability",
+            "longitude": -8.595296235774622,
+            "latitude": 2.2838863123223363
+        },
+        {
+            "text": "Solar Heating",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 2.645004214877395,
+            "latitude": -5.420658594190284
+        },
+        {
+            "text": "Main Focus",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -3.9763387316421346,
+            "latitude": 3.5721045521067656
+        },
+        {
+            "text": "Power Plants",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Urban Sustainability",
+            "longitude": -2.4045207406855176,
+            "latitude": -3.6871114566219654
+        },
+        {
+            "text": "Main Findings",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 4.85387218941671,
+            "latitude": 18.64367876319173
+        },
+        {
+            "text": "Research Article",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 1.553177776529974,
+            "latitude": 9.852278618509004
+        },
+        {
+            "text": "Decision-Support System",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 2.999463576219317,
+            "latitude": 9.078802474886666
+        },
+        {
+            "text": "Energy Buildings",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Transition",
+            "longitude": -2.541279144120483,
+            "latitude": -6.890060976720607
+        },
+        {
+            "text": "Ihs Market",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainable Technologies",
+            "longitude": -6.556621829188225,
+            "latitude": -10.291725673098725
+        },
+        {
+            "text": "Energy Propaedia",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": -7.850568508985145,
+            "latitude": 7.632506479728925
+        },
+        {
+            "text": "Main Focus",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 1.1076733577574092,
+            "latitude": 7.776178770733184
+        },
+        {
+            "text": "Multi-Criteria Decision-Making",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Dynamics",
+            "longitude": -7.886467819032735,
+            "latitude": 0.49788015268796204
+        },
+        {
+            "text": "Life Cycle",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 4.329115650503015,
+            "latitude": 9.803688601667343
+        },
+        {
+            "text": "Swot Analysis",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": 0.7256916966297351,
+            "latitude": -2.3838067774054643
+        },
+        {
+            "text": "Multi-Criteria Decision-Making",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 14.142998249371175,
+            "latitude": -4.95538670860882
+        },
+        {
+            "text": "Solar Panels",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 2.484355031711659,
+            "latitude": -0.3920103112028124
+        },
+        {
+            "text": "Technologies Form",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -1.6596960400147456,
+            "latitude": 3.1473002960479937
+        },
+        {
+            "text": "Solar Photovoltaic",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": 7.0483656556552585,
+            "latitude": -5.479594812643532
+        },
+        {
+            "text": "Lunar Probit",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Urban Sustainability",
+            "longitude": -2.1271456693931787,
+            "latitude": 6.939211977210732
+        },
+        {
+            "text": "Iran",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 7.750626715127304,
+            "latitude": 1.3786266530173585
+        },
+        {
+            "text": "Topics Discussed",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Urban Sustainability",
+            "longitude": -1.631981321933458,
+            "latitude": -4.272647017505052
+        },
+        {
+            "text": "Plantar Article",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 2.6214042538742817,
+            "latitude": 6.413256339627573
+        },
+        {
+            "text": "Distribution System",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 6.5868472096364465,
+            "latitude": -0.6651969602908467
+        },
+        {
+            "text": "Building Integrated",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainable Technologies",
+            "longitude": -11.402956508771261,
+            "latitude": -12.772196849941487
+        },
+        {
+            "text": "Cycle Assessment",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Assessments",
+            "longitude": 2.0427243151307857,
+            "latitude": 9.132094399228615
+        },
+        {
+            "text": "Solar Energy",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": 2.6179755580858073,
+            "latitude": -5.938235572498934
+        },
+        {
+            "text": "Energy Source",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": -3.517290382378598,
+            "latitude": -9.541725123872592
+        },
+        {
+            "text": "Renewable Energy",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Transition",
+            "longitude": -8.202284786054683,
+            "latitude": -0.9044305440619755
+        },
+        {
+            "text": "World Fossil",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 5.439013243933559,
+            "latitude": 2.532420989576674
+        },
+        {
+            "text": "Solar Energy-Based",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Technology Adoption",
+            "longitude": 3.9242712010346668,
+            "latitude": -11.476271878604967
+        },
+        {
+            "text": "Swh System",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -2.3438383903585196,
+            "latitude": 2.1940568699201806
+        },
+        {
+            "text": "Thermal Characteristics",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -0.8834614801765777,
+            "latitude": 1.8327666096748665
+        },
+        {
+            "text": "Desalination Processes",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -4.688427691341777,
+            "latitude": -5.698661917802905
+        },
+        {
+            "text": "Swh Systems",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Solutions Integration",
+            "longitude": 13.067911440992702,
+            "latitude": -4.3401068643245
+        },
+        {
+            "text": "Swh Systems",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": 2.8087273490563565,
+            "latitude": -6.242762760170493
+        },
+        {
+            "text": "Fossil Fuel",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": 2.4430099945446995,
+            "latitude": 0.42456462294466224
+        },
+        {
+            "text": "Energy Catchment",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": 3.168801429062939,
+            "latitude": -1.6423167121545927
+        },
+        {
+            "text": "Solar-Collector",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Performance Assessment",
+            "longitude": 4.012778248032921,
+            "latitude": -4.06263678156255
+        },
+        {
+            "text": "Thermal Performance",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -0.7313378805732498,
+            "latitude": 1.5341683558675916
+        },
+        {
+            "text": "Absorber Plate",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -7.333892802997658,
+            "latitude": -7.980539217786291
+        },
+        {
+            "text": "Glass Cover",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 7.908271324616516,
+            "latitude": 6.812757232683824
+        },
+        {
+            "text": "Fpc",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 2.3514218941118075,
+            "latitude": -1.4834773985055747
+        },
+        {
+            "text": "Recently Focused",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Graphene Silk Panels",
+            "longitude": 5.22106057178277,
+            "latitude": 4.6414849969764465
+        },
+        {
+            "text": "Classic Fpc",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 2.125262237662045,
+            "latitude": -1.2433267356076558
+        },
+        {
+            "text": "Classic Fpc",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -2.22007290485912,
+            "latitude": -8.266192373313412
+        },
+        {
+            "text": "Instantaneous Gas",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": -9.072782732220631,
+            "latitude": -8.305247698042297
+        },
+        {
+            "text": "Components Make",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -1.6059448311317581,
+            "latitude": -2.6167242286485553
+        },
+        {
+            "text": "Designs Introduced",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Graphene Silk Panels",
+            "longitude": 6.868482332715033,
+            "latitude": 6.794144373569959
+        },
+        {
+            "text": "Desalting Saline",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Energy Efficiency Meaasures",
+            "longitude": -8.185438421185928,
+            "latitude": -11.006921528544298
+        },
+        {
+            "text": "Shape",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -4.894798038744905,
+            "latitude": 9.127575824766513
+        },
+        {
+            "text": "Thermal Conductivity",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -0.5020620214043814,
+            "latitude": 1.5688395109155473
+        },
+        {
+            "text": "Maximum Working",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": 0.466210760429401,
+            "latitude": -1.7625504532516743
+        },
+        {
+            "text": "Cpc",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -10.40467271184669,
+            "latitude": 4.265477387244799
+        },
+        {
+            "text": "Improve Pcs",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Graphene Silk Panels",
+            "longitude": 6.225016577659431,
+            "latitude": 8.38000248170074
+        },
+        {
+            "text": "Non-Optical Concentrators",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": -8.947710080563121,
+            "latitude": -6.032256197552522
+        },
+        {
+            "text": "Highest Temperature",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": -0.24787997212497848,
+            "latitude": -5.0646287677487525
+        },
+        {
+            "text": "Heat Storage",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": -1.183361052745632,
+            "latitude": -4.1173884381367785
+        },
+        {
+            "text": "State Heat",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": 4.911137567876446,
+            "latitude": 3.2269132862745313
+        },
+        {
+            "text": "Heat Storage",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -2.6700310609367963,
+            "latitude": -5.30867319418028
+        },
+        {
+            "text": "Storage Tanks",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -10.644999271846878,
+            "latitude": -9.010575009427825
+        },
+        {
+            "text": "Swh System",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": -9.642885510943255,
+            "latitude": -4.869934651095473
+        },
+        {
+            "text": "Thermal Distribution",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -9.835107023607595,
+            "latitude": 1.5355875716907408
+        },
+        {
+            "text": "Highest Temperatures",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Panel Perception",
+            "longitude": -11.097341552769823,
+            "latitude": 1.5449501576772746
+        },
+        {
+            "text": "Absorber Plate",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -4.825890047819122,
+            "latitude": -2.559059529583578
+        },
+        {
+            "text": "Assisted Concentrator",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 7.803281054022108,
+            "latitude": 3.4638906272534986
+        },
+        {
+            "text": "Thermal Collector",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -8.62691105419153,
+            "latitude": 2.1865435431753526
+        },
+        {
+            "text": "Maximum Outlet",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -2.1451560544705544,
+            "latitude": -4.1890881579839165
+        },
+        {
+            "text": "Heat Exchanger",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -3.380060129882563,
+            "latitude": 0.5560576518769402
+        },
+        {
+            "text": "Transfer Fluid",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": 4.175076997696094,
+            "latitude": -0.35238598455554193
+        },
+        {
+            "text": "Aluminium Absorber",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": 4.455780064771927,
+            "latitude": 2.3221210519269824
+        },
+        {
+            "text": "Air Conditioners",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -4.1045913980055015,
+            "latitude": 3.7358877053238757
+        },
+        {
+            "text": "Performance Obtained",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -8.762255715165352,
+            "latitude": 5.000187817401511
+        },
+        {
+            "text": "Evacuated Tubular",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Performance Assessment",
+            "longitude": 0.3902133236711769,
+            "latitude": -3.6481289717878607
+        },
+        {
+            "text": "Coating Layer",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 7.401849835967264,
+            "latitude": -7.850079532740855
+        },
+        {
+            "text": "Absorber Plate",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Graphene Silk Panels",
+            "longitude": 1.427296228594568,
+            "latitude": 9.855610830258987
+        },
+        {
+            "text": "Typically",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 1.1051651379262595,
+            "latitude": -1.0769769707750316
+        },
+        {
+            "text": "Galvanized Absorber",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Integration",
+            "longitude": -7.175597920418432,
+            "latitude": -4.3464348400680155
+        },
+        {
+            "text": "Utilizing Specific",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -0.927039682700112,
+            "latitude": 0.679918679922148
+        },
+        {
+            "text": "Dark Paint",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Optimization",
+            "longitude": -2.4829208301645305,
+            "latitude": -2.659031071748952
+        },
+        {
+            "text": "Collector",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 7.563130819139419,
+            "latitude": 2.536691844372299
+        },
+        {
+            "text": "Flaps",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Optimization",
+            "longitude": 1.7868088072306387,
+            "latitude": -2.3058033452838593
+        },
+        {
+            "text": "Higher Effectiveness",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 2.8604112629335057,
+            "latitude": -3.002097295318973
+        },
+        {
+            "text": "Nanofluids",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -6.18868548134097,
+            "latitude": -5.452502438462755
+        },
+        {
+            "text": "Weight Fraction",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -2.5350433197805313,
+            "latitude": -2.6255993341687387
+        },
+        {
+            "text": "Nanomaterials' Concentration",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 9.715244370384202,
+            "latitude": 1.416844830585501
+        },
+        {
+            "text": "Mass Flow",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": 1.1069988611823511,
+            "latitude": 0.9525533555088848
+        },
+        {
+            "text": "Nanomaterials Loading",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -7.503281508938481,
+            "latitude": 4.653766892879436
+        },
+        {
+            "text": "Elevated Flux",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 6.690231660503745,
+            "latitude": 2.001504630109252
+        },
+        {
+            "text": "Increased Efficiency",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": 4.394385773419925,
+            "latitude": 4.971791281324315
+        },
+        {
+            "text": "Cuo Nanofluids",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 1.381433682294711,
+            "latitude": -0.37107015260725573
+        },
+        {
+            "text": "Mwcnt Nanofluid",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -3.169208180288265,
+            "latitude": -1.5489657355105193
+        },
+        {
+            "text": "Gnp Nanofluids",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": 0.6223792325487861,
+            "latitude": -0.9746549776722715
+        },
+        {
+            "text": "Proposed Cpc",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -2.4887463955208506,
+            "latitude": -8.756398968314175
+        },
+        {
+            "text": "Proposed Cpc",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": 3.869126403938223,
+            "latitude": -11.017988603259827
+        },
+        {
+            "text": "Absorbent Bed",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Sustainability Analysis",
+            "longitude": 0.6864239799995098,
+            "latitude": -1.5140697368634566
+        },
+        {
+            "text": "Type",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Photovoltaic Forecasting Techniques",
+            "longitude": 7.568062499061856,
+            "latitude": -4.784153319407822
+        },
+        {
+            "text": "Disperse",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -0.9079457637564147,
+            "latitude": 6.452973399217063
+        },
+        {
+            "text": "Mwcnt Nanofluid",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 2.9359146092452835,
+            "latitude": -5.593583879265648
+        },
+        {
+            "text": "Absorption Ability",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -4.830071940377685,
+            "latitude": 1.6354257800631116
+        },
+        {
+            "text": "Based Nanofluid",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Dynamics",
+            "longitude": -6.129557934949086,
+            "latitude": -8.961526642301562
+        },
+        {
+            "text": "Mwcnt",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": -3.6606660151098334,
+            "latitude": 4.733735779442635
+        },
+        {
+            "text": "Sic Nanoparticles",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -2.0405053439915775,
+            "latitude": -3.461301492059571
+        },
+        {
+            "text": "Volume Concentration",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -1.8016716909352892,
+            "latitude": 3.8100999623303715
+        },
+        {
+            "text": "Table",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": 4.470717119281155,
+            "latitude": -1.6453244272008578
+        },
+        {
+            "text": "Experiment",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": -2.5388494246305133,
+            "latitude": -9.24360608730617
+        },
+        {
+            "text": "Thermal Performance",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": 1.621103245854697,
+            "latitude": -7.736404603805548
+        },
+        {
+            "text": "Gnp Nanofluid",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": 1.3051208701170738,
+            "latitude": -0.23371783758011166
+        },
+        {
+            "text": "Water",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Thermal Efficiency",
+            "longitude": 1.8798598759709653,
+            "latitude": -1.5808806168180196
+        },
+        {
+            "text": "Water-Eg Nanofluid-Based",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": 2.475746371109906,
+            "latitude": -3.2810709627610715
+        },
+        {
+            "text": "Swh Systems",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Renewable Energy Transition",
+            "longitude": -3.9212671298044866,
+            "latitude": -4.836178273837994
+        },
+        {
+            "text": "Highest Thermal",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Hybrid Technologies",
+            "longitude": -6.55893166633889,
+            "latitude": 5.923899817691711
+        },
+        {
+            "text": "Operating Temperature",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": 6.103889692029793,
+            "latitude": -0.9353388921297103
+        },
+        {
+            "text": "Swh System",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Energy Efficiency",
+            "longitude": 6.211034834508376,
+            "latitude": -5.227967587705276
+        },
+        {
+            "text": "Fpc",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Materials",
+            "longitude": 2.229695655287491,
+            "latitude": -2.3457582768113516
+        },
+        {
+            "text": "Swh Systems",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Systems Economics",
+            "longitude": 6.517449583231571,
+            "latitude": -7.104469121484902
+        },
+        {
+            "text": "Authors Give",
+            "type": "sub-subtopic",
+            "topic": "Solar Panel",
+            "subtopic": "Solar Innovation Solutions",
+            "longitude": 
