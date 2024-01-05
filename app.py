@@ -6,9 +6,9 @@ import math
 import json
 
 
-def gen_co(center_node_coordinate, radius, relevance, base_distance):
+def gen_co(center_node_coordinate, radius, relevance):
     # Generate random distance and angle
-    distance = random.uniform(base_distance, base_distance + radius)
+    distance = random.uniform(0, radius)
     angle = random.uniform(0, 2 * math.pi)
 
     # Calculate x, y coordinates relative to the center node
@@ -67,14 +67,14 @@ for i in raw_data[1:]:
     new_data['relevance'] = gen_ran_relevant(60, 90)
     parent_co = loc_topic_co(new_data['topic'],new_data_json['nodes'])
     if parent_co:
-      (new_data['longitude'], new_data['latitude']) = gen_co(parent_co, 100, new_data['relevance'], 0)
+      (new_data['longitude'], new_data['latitude']) = gen_co(parent_co, 100, new_data['relevance'])
     
 
   elif new_data['type'] == 'sub-subtopic':
     new_data['relevance'] = gen_ran_relevant(1, 50)
     parent_co = loc_subtopic_co(new_data['subtopic'],new_data_json['nodes'])
     if parent_co:
-      (new_data['longitude'], new_data['latitude']) = gen_co(parent_co, 1, new_data['relevance'], 0)
+      (new_data['longitude'], new_data['latitude']) = gen_co(parent_co, 1, new_data['relevance'])
 
   new_data_json['nodes'].append(new_data)
 
