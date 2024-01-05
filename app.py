@@ -67,7 +67,7 @@ for i in raw_data[1:]:
     new_data['relevance'] = gen_ran_relevant(60, 90)
     parent_co = loc_topic_co(new_data['topic'],new_data_json['nodes'])
     if parent_co:
-      (new_data['longitude'], new_data['latitude']) = gen_co(parent_co, 100, new_data['relevance'], 5)
+      (new_data['longitude'], new_data['latitude']) = gen_co(parent_co, 100, new_data['relevance'], 1)
     
 
   elif new_data['type'] == 'sub-subtopic':
