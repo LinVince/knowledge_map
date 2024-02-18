@@ -1,622 +1,622 @@
 text,type,parent,ancestor,longitude,latitude,relevance
 Smart City,macrotopic,,,0,0,100
-Urban Mobility,topic,Smart City,,1.9409295142872438,-1.6801586303021774,64
-Intelligent Transportation Systems,topic,Smart City,,-0.08672705792897163,-0.5764671952696022,63
-Smart Grids,topic,Smart City,,0.967682141112181,-0.14624999615715079,71
-Energy Management,topic,Smart City,,-3.188821967900287,-2.212051514975098,85
-Sustainable Infrastructure,topic,Smart City,,-2.8181834707958497,-0.7391055413757347,74
-Digital Governance,topic,Smart City,,-0.6591648981760692,-0.2198901243740014,66
-Iot In Cities,topic,Smart City,,-1.180934798627473,-0.04089077532352615,67
-Smart Buildings,topic,Smart City,,0.35633651469987404,-3.8655004349107607,80
-Waste Management,topic,Smart City,,-1.7209163689893126,-1.6588061452810194,81
-Water Management,topic,Smart City,,-2.1632650082259817,0.009910414812041713,77
-Civic Engagement,topic,Smart City,,-2.517444121983451,-2.8183370606699714,82
-Public Safety,topic,Smart City,,-2.6566686522124634,3.0393651742876595,90
-Environmental Monitoring,topic,Smart City,,1.7871391327323034,-1.4898891839223782,70
-Urban Planning Analytics,topic,Smart City,,-1.9469613919632147,-1.664353134816156,66
-Smart Street Lighting,topic,Smart City,,1.278383444555474,-3.708978947046657,82
-Urban Green Spaces,topic,Smart City,,0.3061332856577422,-1.6240645301623737,74
-E-Government Services,topic,Smart City,,1.2172541219065909,2.9856927798130437,79
-Air Quality Monitoring,topic,Smart City,,2.4483890732408344,-1.9082875828313448,79
-Smart Parking Solutions,topic,Smart City,,0.1790946768823551,3.3372837654350813,83
-Urban Autonomous Vehicles,topic,Smart City,,-1.5973087079871016,-0.2674047928173824,62
-Public Transit Optimization,subtopic,Urban Mobility,Smart City,1.856502956993894,-1.915074485460291,39
-Adaptive Traffic Signal Control,subtopic,Intelligent Transportation Systems,Smart City,-0.049401206156420865,-0.8154197520433977,50
-Advanced Metering Infrastructure (Ami),subtopic,Smart Grids,Smart City,1.247621685156328,-0.2611114259344435,31
-Energy Consumption Monitoring,subtopic,Energy Management,Smart City,-3.197786567817293,-2.229568983976349,34
-Green Building Design,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,41
-E-Government Services,subtopic,Digital Governance,Smart City,-0.42891356850981754,0.029469637708074925,36
-Smart Sensors Deployment,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,39
-Building Energy Management Systems (Bems),subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,40
-Smart Bin Monitoring Systems,subtopic,Waste Management,Smart City,-1.7082618340502942,-1.6360950720854752,48
-Smart Water Metering Systems,subtopic,Water Management,Smart City,-2.044558709431122,-0.032629922629103775,41
-Digital Participatory Platforms,subtopic,Civic Engagement,Smart City,-2.5572862306360937,-2.7820948828695085,50
-Emergency Response Systems,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,30
-Air Quality Monitoring Systems,subtopic,Environmental Monitoring,Smart City,2.126995951521591,-1.7549281806648516,45
-Spatial Data Analysis For Urban Planning,subtopic,Urban Planning Analytics,Smart City,-2.163649779599113,-1.9379219006228827,37
-Intelligent Led Street Lighting,subtopic,Smart Street Lighting,Smart City,1.5385699463494156,-3.5478473352613222,37
-Smart Park Design And Management,subtopic,Urban Green Spaces,Smart City,0.503870960694297,-1.6814600777768745,34
-Digital Citizen Identity Management,subtopic,E-Government Services,Smart City,1.3307871329982843,3.2120931861268303,35
-Sensor Networks For Urban Air Quality,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,35
-Iot-Enabled Parking Space Monitoring,subtopic,Smart Parking Solutions,Smart City,0.1211020094644468,3.41675458819522,32
-Self-Driving Public Transportation,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,44
-Micro-Mobility Solutions,subtopic,Urban Mobility,Smart City,1.9508920324506278,-1.4057756436292204,35
-Vehicle-To-Everything (V2X) Communication,subtopic,Intelligent Transportation Systems,Smart City,-0.13925309349486298,-0.6510650071907687,36
-Demand Response Systems,subtopic,Smart Grids,Smart City,0.9109251401751496,0.026200243915386723,37
-Smart Grid Integration,subtopic,Energy Management,Smart City,-3.0427354681451697,-1.8953408417048814,47
-Eco-Friendly Construction Materials,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,48
-Digital Citizen Participation,subtopic,Digital Governance,Smart City,-0.9417915097796377,-0.15759769921284045,37
-Iot-Enabled Smart Lighting Systems,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,33
-Intelligent Lighting Systems,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,42
-Waste Sorting Technologies,subtopic,Waste Management,Smart City,-1.7228586001035906,-1.6542980203455238,44
-Iot-Enabled Water Quality Monitoring,subtopic,Water Management,Smart City,-2.222045904289204,-0.008356178510782653,38
-Crowdsourced Urban Planning,subtopic,Civic Engagement,Smart City,-2.695181778374007,-2.8913523299779804,43
-Smart Surveillance Technologies,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,46
-Iot-Enabled Environmental Sensors,subtopic,Environmental Monitoring,Smart City,1.5945971888197419,-1.5514631459112447,49
-Predictive Modeling For Population Growth,subtopic,Urban Planning Analytics,Smart City,-1.638054088671996,-1.840438914223457,39
-Motion-Sensing Street Lights,subtopic,Smart Street Lighting,Smart City,1.3919157816258476,-3.6792366873598032,46
-Green Space Accessibility For Persons With Disabilities,subtopic,Urban Green Spaces,Smart City,0.3056342037733088,-1.6477391663866696,47
-Online Government Portals,subtopic,E-Government Services,Smart City,1.0637239624830628,3.35094434473324,42
-Iot-Enabled Air Quality Monitoring,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,47
-Mobile Apps For Parking Availability,subtopic,Smart Parking Solutions,Smart City,-0.004028549471488674,3.265802057029957,43
-Autonomous Ride-Sharing Services,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,32
-Traffic Flow Management,subtopic,Urban Mobility,Smart City,1.8927992969774536,-1.783872076054008,41
-Cooperative Adaptive Cruise Control (Cacc),subtopic,Intelligent Transportation Systems,Smart City,-0.009058282494990147,-0.15859256097006086,47
-Smart Metering Technology,subtopic,Smart Grids,Smart City,1.2320415984065087,-0.4773811505795705,50
-Demand-Side Management,subtopic,Energy Management,Smart City,-3.194758635718248,-2.196402054453173,30
-Urban Green Spaces,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,43
-Open Data Initiatives,subtopic,Digital Governance,Smart City,-0.7831279981637698,-0.44098657691065923,44
-Connected Intelligent Buildings,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,30
-Occupancy Sensors And Analytics,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,45
-Rfid-Based Waste Tracking,subtopic,Waste Management,Smart City,-1.7305074397477267,-1.676272792745122,40
-Leak Detection And Prevention,subtopic,Water Management,Smart City,-2.4005120522310484,0.3213371348852163,40
-E-Government Services Accessibility,subtopic,Civic Engagement,Smart City,-2.3291718440965354,-2.851005479167038,31
-Predictive Policing Models,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,44
-Smart Weather Stations,subtopic,Environmental Monitoring,Smart City,1.9613027008923631,-1.6187743230648945,50
-Traffic Flow Analytics For Transportation Planning,subtopic,Urban Planning Analytics,Smart City,-2.1763685317259305,-1.2919154143097888,47
-Adaptive Brightness Control,subtopic,Smart Street Lighting,Smart City,1.2864991631028133,-3.91288449049186,44
-Intelligent Irrigation Systems For Parks,subtopic,Urban Green Spaces,Smart City,0.24620276185257872,-1.4282437418189944,47
-Mobile Government Applications,subtopic,E-Government Services,Smart City,1.423632943380275,2.673267432579686,40
-Mobile Air Quality Monitoring Stations,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,33
-Automated Parking Guidance Systems,subtopic,Smart Parking Solutions,Smart City,0.31805023199052074,3.2405962513291096,38
-Urban Autonomous Taxis,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,32
-Intelligent Traffic Signal Systems,subtopic,Urban Mobility,Smart City,1.691060001123589,-1.317948765177782,48
-Connected Vehicles Networks,subtopic,Intelligent Transportation Systems,Smart City,-0.3639397531353966,-0.5296495946836363,50
-Distribution Management Systems (Dms),subtopic,Smart Grids,Smart City,0.71822749562789,0.07569280238254802,47
-Automated Demand Response,subtopic,Energy Management,Smart City,-3.192175691733608,-2.0540008690136267,41
-Low-Impact Development (Lid),subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,47
-Civic Engagement Platforms,subtopic,Digital Governance,Smart City,-1.0287640993226514,-0.2624451695035841,43
-Iot In Urban Agriculture,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,36
-"Smart Hvac (Heating, Ventilation, And Air Conditioning) Systems",subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,46
-Iot-Enabled Waste Collection,subtopic,Waste Management,Smart City,-1.9890426238032783,-1.570141047115081,31
-Automated Water Distribution Systems,subtopic,Water Management,Smart City,-1.843675009096219,0.0035092306138394813,35
-Citizen Feedback Systems,subtopic,Civic Engagement,Smart City,-2.4203910919445737,-2.6343251585139225,31
-Real-Time Crime Mapping,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,40
-Real-Time Pollution Tracking,subtopic,Environmental Monitoring,Smart City,1.8338481972729563,-1.3133314946144685,33
-Land Use Pattern Analysis,subtopic,Urban Planning Analytics,Smart City,-1.948572835529393,-1.7114849063152173,34
-Iot-Enabled Street Light Monitoring,subtopic,Smart Street Lighting,Smart City,1.2469595217974574,-3.7357266554938264,50
-Urban Biodiversity Conservation,subtopic,Urban Green Spaces,Smart City,0.0865427203956706,-1.7858983191670603,40
-E-Government Service Accessibility,subtopic,E-Government Services,Smart City,1.579483145249338,2.843136248728888,50
-Real-Time Pollution Mapping,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,43
-Sensor-Equipped Parking Spaces,subtopic,Smart Parking Solutions,Smart City,0.09358492112717572,3.323278509415085,42
-Automated Bus Systems,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,42
-Pedestrian-Friendly Infrastructure,subtopic,Urban Mobility,Smart City,2.1431814505427034,-1.669982871472155,42
-Traffic Surveillance Cameras,subtopic,Intelligent Transportation Systems,Smart City,0.08130809287210354,-0.5238604796202437,31
-Microgrid Solutions,subtopic,Smart Grids,Smart City,1.032992483917165,-0.132062770490109,41
-Building Energy Management Systems (Bems),subtopic,Energy Management,Smart City,-3.336170314656898,-2.2703542990596266,37
-Smart Water Management,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,32
-Smart City Portals,subtopic,Digital Governance,Smart City,-0.8485662282694207,-0.29843237376409393,30
-Smart Waste Management,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,45
-Automated Temperature And Climate Control,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,47
-Automated Waste Collection Systems,subtopic,Waste Management,Smart City,-1.643138097238937,-1.5323919661653465,33
-Real-Time Water Consumption Analytics,subtopic,Water Management,Smart City,-1.8918933566969072,-0.14048023856646422,44
-Community Decision-Making Apps,subtopic,Civic Engagement,Smart City,-2.3872557210122074,-2.709353006298585,48
-Smart Street Lighting For Safety,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,44
-Water Quality Monitoring Networks,subtopic,Environmental Monitoring,Smart City,1.8044395169901248,-1.5398046695722738,32
-Real-Time Infrastructure Utilization Monitoring,subtopic,Urban Planning Analytics,Smart City,-2.0429074017786837,-1.5633980623657537,40
-Remote Management Of Street Lights,subtopic,Smart Street Lighting,Smart City,1.37175416669605,-3.4457950984099046,48
-Sensor Networks For Green Space Monitoring,subtopic,Urban Green Spaces,Smart City,0.3038059409498747,-1.7571662831927277,33
-Electronic Document Submission,subtopic,E-Government Services,Smart City,0.8299173693379243,2.7788274197659786,44
-Indoor Air Quality Monitoring Systems,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,33
-Real-Time Parking Occupancy Data,subtopic,Smart Parking Solutions,Smart City,0.04389398494618979,3.5985272571046973,48
-Smart Traffic Management For Autonomous Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,34
-Bike-Sharing Programs,subtopic,Urban Mobility,Smart City,1.9031236262765858,-1.5232817741803284,49
-Incident Detection And Management,subtopic,Intelligent Transportation Systems,Smart City,-0.1019013564241188,-0.3968530968274704,41
-Grid Modernization Initiatives,subtopic,Smart Grids,Smart City,1.0885168230770943,0.03598849423118697,50
-Smart Home Energy Management,subtopic,Energy Management,Smart City,-3.253025575650776,-1.8970424591001303,34
-Sustainable Transportation Networks,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,38
-Digital Identity Management,subtopic,Digital Governance,Smart City,-0.7271964591610172,0.03130759942293809,35
-Environmental Monitoring With Iot,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,44
-Energy-Efficient Building Materials,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,39
-Intelligent Waste Disposal Units,subtopic,Waste Management,Smart City,-1.6400140005955046,-1.6767966053158123,47
-Smart Irrigation Systems,subtopic,Water Management,Smart City,-2.032320643962557,-0.2012911824078046,31
-Open Data Initiatives For Civic Transparency,subtopic,Civic Engagement,Smart City,-2.419185845441521,-2.587305534969675,33
-Public Safety Drones,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,38
-Soil Health Monitoring,subtopic,Environmental Monitoring,Smart City,1.7213980909469315,-1.3349331239667825,33
-Demographic Data Analytics,subtopic,Urban Planning Analytics,Smart City,-1.7507877136085765,-1.512074597058018,43
-Solar-Powered Street Lighting,subtopic,Smart Street Lighting,Smart City,1.2760949812681437,-3.9172341960307877,42
-Smart Benches With Charging Stations,subtopic,Urban Green Spaces,Smart City,0.3415140399168884,-2.01095514290877,45
-Online Payment And Transaction Systems,subtopic,E-Government Services,Smart City,1.2088580388335306,3.2267191964115756,38
-Remote Sensing For Air Quality Assessment,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,40
-Smart Parking Payment Solutions,subtopic,Smart Parking Solutions,Smart City,0.24984651119490553,3.598158280867517,41
-Vehicle-To-Everything (V2X) Communication,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,46
-Multi-Modal Transport Integration,subtopic,Urban Mobility,Smart City,1.8840433144480904,-1.8365199665483414,31
-Real-Time Traffic Information Systems,subtopic,Intelligent Transportation Systems,Smart City,-0.023965952300422158,-0.6229310639230845,46
-Energy Storage Integration,subtopic,Smart Grids,Smart City,0.9670144082425151,-0.14619772089444963,46
-Real-Time Energy Analytics,subtopic,Energy Management,Smart City,-3.3604894990254617,-2.0605198032120944,35
-Intelligent Traffic Management,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,38
-Transparent Government Operations,subtopic,Digital Governance,Smart City,-0.6868812222014241,-0.27603690120440133,37
-Smart Parking Solutions,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,49
-Iot-Enabled Building Automation,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,41
-Waste-To-Energy Conversion,subtopic,Waste Management,Smart City,-1.6853417472346839,-1.683261086619213,38
-Flood Prediction And Early Warning Systems,subtopic,Water Management,Smart City,-1.8651096100513964,0.037189180504999884,30
-Online Voting Platforms,subtopic,Civic Engagement,Smart City,-2.6285730290010836,-2.9722938278063973,46
-Intelligent Traffic Management For Emergency Vehicles,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,42
-Biodiversity Monitoring,subtopic,Environmental Monitoring,Smart City,1.6350217587622393,-1.7174940310841065,39
-Social And Economic Impact Assessment,subtopic,Urban Planning Analytics,Smart City,-1.8100722996461984,-1.4942050347614833,34
-Energy-Efficient Street Light Design,subtopic,Smart Street Lighting,Smart City,0.9704385813304024,-3.5463884294961088,44
-Interactive Outdoor Fitness Equipment,subtopic,Urban Green Spaces,Smart City,0.280313047413795,-1.6226185428225857,34
-Smart Taxation Systems,subtopic,E-Government Services,Smart City,1.2944876452496736,3.1522992973102757,38
-Citizen-Engaged Air Quality Data Collection,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,34
-Dynamic Pricing For Parking Spaces,subtopic,Smart Parking Solutions,Smart City,0.4723447092395582,3.60723878438459,40
-Autonomous Delivery Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,34
-Smart Parking Systems,subtopic,Urban Mobility,Smart City,1.9417493261174903,-1.6809131620214375,35
-Roadside Sensor Networks,subtopic,Intelligent Transportation Systems,Smart City,-0.13339650031854605,-0.7187591133679527,45
-Smart Grid Cybersecurity,subtopic,Smart Grids,Smart City,0.9229755216188417,-0.18217039797475393,43
-Energy-Efficient Hvac Systems,subtopic,Energy Management,Smart City,-3.0067959970966314,-2.1004621289481937,34
-Energy-Efficient Street Lighting,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,39
-Cybersecurity In Governance,subtopic,Digital Governance,Smart City,-0.8568950379978607,-0.08531061408080765,37
-Iot For Traffic Management,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,43
-Intelligent Fire Detection And Prevention,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,50
-Smart Recycling Bins,subtopic,Waste Management,Smart City,-1.6921684538539488,-1.6686738551958382,31
-Intelligent Stormwater Management,subtopic,Water Management,Smart City,-2.3305353499230432,0.24818657927747595,44
-Mobile Apps For Civic Engagement,subtopic,Civic Engagement,Smart City,-2.58544799089088,-2.831055476906205,42
-Gunshot Detection Systems,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,48
-Urban Heat Island Monitoring,subtopic,Environmental Monitoring,Smart City,1.846304510516033,-1.7310438776280819,50
-Gis (Geographic Information System) For Urban Planning,subtopic,Urban Planning Analytics,Smart City,-1.8036391123825215,-1.4488029410475673,50
-Smart Street Light Poles With Integrated Sensors,subtopic,Smart Street Lighting,Smart City,1.2717109166749883,-3.626308444454019,44
-Virtual Green Spaces For Indoor Environments,subtopic,Urban Green Spaces,Smart City,0.1724564680675782,-1.473140892541671,30
-E-Voting Platforms,subtopic,E-Government Services,Smart City,1.1528979315883852,3.172148746957768,34
-Smart Hvac Systems For Indoor Air Quality,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,31
-Integration With Navigation Apps,subtopic,Smart Parking Solutions,Smart City,0.05060215477615096,3.0190375432970855,45
-Last-Mile Autonomous Transport Solutions,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,50
-Ride-Sharing Services,subtopic,Urban Mobility,Smart City,2.0158261256415555,-1.592794858816942,41
-Vehicle Detection Technologies,subtopic,Intelligent Transportation Systems,Smart City,-0.061452584943069266,-0.684885394762562,45
-Renewable Energy Integration,subtopic,Smart Grids,Smart City,0.877693710940934,-0.02247807120578056,42
-Predictive Energy Modeling,subtopic,Energy Management,Smart City,-3.34244256003063,-2.5346870339990257,39
-Waste-To-Energy Solutions,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,42
-Smart Legislation And Regulation,subtopic,Digital Governance,Smart City,-0.6586676645895055,-0.21800019409811655,37
-Intelligent Public Transportation,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,38
-Smart Security And Access Control,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,38
-E-Waste Management Solutions,subtopic,Waste Management,Smart City,-1.718903520536806,-1.7105081366111397,36
-Cloud-Based Water Data Platforms,subtopic,Water Management,Smart City,-2.359523689232042,-0.006135571159437905,45
-Social Media Integration For Citizen Input,subtopic,Civic Engagement,Smart City,-2.6743134075710584,-2.9061102441988123,40
-Wearable Tech For First Responders,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,37
-Noise Pollution Monitoring,subtopic,Environmental Monitoring,Smart City,2.081443134566405,-1.5102975182325622,31
-Public Transit Ridership Analytics,subtopic,Urban Planning Analytics,Smart City,-2.0045769682375343,-1.219829390126525,47
-Predictive Maintenance For Street Lights,subtopic,Smart Street Lighting,Smart City,1.161912761388019,-3.8561251023443024,32
-Community Gardens With Smart Irrigation,subtopic,Urban Green Spaces,Smart City,-0.036936516286375676,-1.6068197373867288,44
-Open Data Platforms For Government Transparency,subtopic,E-Government Services,Smart City,1.3596600883224799,2.9717404608510343,47
-Wearable Air Quality Sensors,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,48
-Parking Reservation Platforms,subtopic,Smart Parking Solutions,Smart City,0.18886596142209078,3.3400739396402988,36
-Pedestrian Detection And Safety Systems,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,47
-Traffic Congestion Modeling,subtopic,Urban Mobility,Smart City,1.830691223428489,-1.6462180401056878,33
-Smart Parking Guidance Systems,subtopic,Intelligent Transportation Systems,Smart City,-0.09032051787099006,-0.57099632162147,41
-Electric Vehicle Charging Infrastructure,subtopic,Smart Grids,Smart City,0.7658654116442054,-0.307626512690912,43
-Smart Lighting Solutions,subtopic,Energy Management,Smart City,-3.4476083840255964,-2.5228079268889423,48
-Circular Economy Practices,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,47
-Data Privacy Policies,subtopic,Digital Governance,Smart City,-0.7152554613320881,-0.09513388941994302,36
-Iot In Healthcare For Smart Cities,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,50
-Indoor Air Quality Monitoring,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,40
-Hazardous Waste Monitoring,subtopic,Waste Management,Smart City,-1.9428670121772154,-1.6227843893816132,32
-Water Conservation Apps For Citizens,subtopic,Water Management,Smart City,-2.152962660504766,0.07801647454923624,42
-Virtual Town Halls,subtopic,Civic Engagement,Smart City,-2.5708956049972733,-2.5712698200648267,36
-Video Analytics For Crowd Monitoring,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,42
-Radiation Monitoring Systems,subtopic,Environmental Monitoring,Smart City,1.5734981163552149,-1.4330626615724196,46
-Accessibility And Connectivity Modeling,subtopic,Urban Planning Analytics,Smart City,-1.9845817623247293,-1.768686376022399,35
-Connected Street Lighting Networks,subtopic,Smart Street Lighting,Smart City,1.3126368147319687,-3.816163362790223,36
-Mobile Apps For Green Space Navigation,subtopic,Urban Green Spaces,Smart City,0.31786821480546185,-1.3832358227907957,50
-Digital Social Services Delivery,subtopic,E-Government Services,Smart City,1.3534764924048641,3.236693971715479,48
-Air Quality Alerts And Notifications,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,31
-Geofencing For Parking Management,subtopic,Smart Parking Solutions,Smart City,0.11444170770009632,3.3479530684920142,44
-Integration With Public Transportation Networks,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,48
-Last-Mile Connectivity,subtopic,Urban Mobility,Smart City,1.8941299471412036,-1.6730333839100118,36
-Traffic Data Aggregation,subtopic,Intelligent Transportation Systems,Smart City,-0.15115353131116133,-0.8473190197724936,48
-Intelligent Substation Automation,subtopic,Smart Grids,Smart City,1.008201480615721,-0.14305627363976214,35
-Renewable Energy Microgrids,subtopic,Energy Management,Smart City,-3.21175226255234,-2.17077416162549,44
-Smart Waste Management,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,32
-Digital Inclusion Programs,subtopic,Digital Governance,Smart City,-0.6315626450588793,0.02068042637287887,37
-Smart Water Management,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,40
-Smart Elevators And Escalators,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,49
-Blockchain For Transparent Waste Transactions,subtopic,Waste Management,Smart City,-1.4676341049387887,-1.9035885698765291,37
-Remote Sensing For Water Resource Assessment,subtopic,Water Management,Smart City,-2.19951856273873,4.1776784519687374e-05,43
-Gamification Of Civic Participation,subtopic,Civic Engagement,Smart City,-2.5878099892779094,-2.577192189141358,30
-Automated License Plate Recognition (Alpr),subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,41
-Remote Sensing For Environmental Assessment,subtopic,Environmental Monitoring,Smart City,1.7838687480805924,-1.5779393116589553,37
-Urban Design Optimization,subtopic,Urban Planning Analytics,Smart City,-1.7407984958012488,-1.8312351735866697,32
-Centralized Street Light Control Systems,subtopic,Smart Street Lighting,Smart City,1.121446437756274,-3.4888649658624793,33
-Sustainable Landscaping Practices,subtopic,Urban Green Spaces,Smart City,0.40708637368193,-1.4746244442726364,38
-Digital Birth And Death Certificates,subtopic,E-Government Services,Smart City,1.055581267090495,3.2614733511379876,32
-Integration With Traffic Management For Emission Reduction,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,30
-License Plate Recognition For Parking Access,subtopic,Smart Parking Solutions,Smart City,0.12527094957241006,3.447939911560889,44
-Smart Parking Solutions For Autonomous Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,42
-Smart Highways,subtopic,Urban Mobility,Smart City,1.6395299009341953,-1.647477990863559,31
-Automated Toll Collection Systems,subtopic,Intelligent Transportation Systems,Smart City,-0.04141220131979624,-0.5563668244439143,30
-Wide Area Monitoring Systems (Wams),subtopic,Smart Grids,Smart City,0.7987229886135924,0.06358092099263735,38
-Energy Storage Optimization,subtopic,Energy Management,Smart City,-3.3588519733995867,-2.461384689061406,38
-Resilient And Adaptable Infrastructure,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,50
-Smart City Command Centers,subtopic,Digital Governance,Smart City,-1.0164741813841434,-0.3635224517149547,44
-Iot-Based Air Quality Monitoring,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,47
-Predictive Maintenance For Building Systems,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,49
-Real-Time Monitoring Of Landfills,subtopic,Waste Management,Smart City,-2.1393639004698417,-1.7410700153766598,43
-Smart Wastewater Treatment Plants,subtopic,Water Management,Smart City,-1.9884526044479376,-0.20186622492028336,37
-Civic Education Programs,subtopic,Civic Engagement,Smart City,-2.440478773614706,-3.206787729718279,40
-Smart Fire Detection And Prevention,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,38
-Gis (Geographic Information System) For Environmental Mapping,subtopic,Environmental Monitoring,Smart City,1.9769825871761817,-1.305157127385823,34
-Environmental Impact Analysis,subtopic,Urban Planning Analytics,Smart City,-2.0770832035391016,-1.6130391756746751,50
-Dynamic Street Light Scheduling,subtopic,Smart Street Lighting,Smart City,1.2451761189306891,-3.7288237878583037,37
-Biodiversity Data Collection In Urban Areas,subtopic,Urban Green Spaces,Smart City,0.2783453859645611,-1.4543891957034603,37
-Electronic Permitting And Licensing,subtopic,E-Government Services,Smart City,1.3507508199896132,2.99927666730194,34
-Atmospheric Dispersion Modeling,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,37
-Smart Parking Meters,subtopic,Smart Parking Solutions,Smart City,0.275118523982051,3.389096571102308,35
-Autonomous Freight Transport,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,49
-Connected Vehicle Technologies,subtopic,Urban Mobility,Smart City,1.6932863416034558,-1.4140144481504855,38
-Electronic Road Pricing,subtopic,Intelligent Transportation Systems,Smart City,-0.2128434427677659,-0.7012477895973555,41
-Fault Detection And Localization,subtopic,Smart Grids,Smart City,0.9712810636233267,-0.05748231234460906,40
-Virtual Power Plants (Vpps),subtopic,Energy Management,Smart City,-3.182929222364499,-2.216090087573485,38
-Sustainable Urban Planning,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,48
-Cloud Computing For Governance,subtopic,Digital Governance,Smart City,-0.6632330830663122,-0.3740172489331573,50
-Asset Tracking And Management,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,47
-Building Information Modeling (Bim),subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,34
-Smart Composting Systems,subtopic,Waste Management,Smart City,-1.981993476418464,-1.3970706350282496,41
-Sensor Networks For River And Lake Monitoring,subtopic,Water Management,Smart City,-1.859759051988528,0.14001787559283724,44
-Public Consultation Forums,subtopic,Civic Engagement,Smart City,-2.838416746879938,-2.87228670560959,50
-Community Policing Apps,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,35
-Smart Grids For Energy Efficiency And Emission Reduction,subtopic,Environmental Monitoring,Smart City,1.784606938096931,-1.4966954567082482,50
-Real-Time Construction Project Analytics,subtopic,Urban Planning Analytics,Smart City,-2.12281833311335,-1.3726720514756514,46
-Smart Street Lighting For Public Safety,subtopic,Smart Street Lighting,Smart City,1.2589257432921874,-3.7578815925657936,35
-Smart Lighting For Green Spaces,subtopic,Urban Green Spaces,Smart City,0.30359776770297875,-1.758479921544148,34
-Real-Time Government Alerts And Notifications,subtopic,E-Government Services,Smart City,1.2067345691221985,2.9239028584183524,31
-Air Quality Prediction Models,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,34
-Integration With Public Transportation Systems,subtopic,Smart Parking Solutions,Smart City,0.009803181636555386,3.162682660589268,37
-Connected And Cooperative Autonomous Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,32
-Mobility As A Service (Maas),subtopic,Urban Mobility,Smart City,2.1017686291939324,-2.0758643445902787,46
-Variable Message Signs,subtopic,Intelligent Transportation Systems,Smart City,-0.13292052557294207,-0.5936551989999774,32
-Voltage And Reactive Power Control,subtopic,Smart Grids,Smart City,1.1146062423365422,-0.22110237973208785,32
-Smart Metering For Energy Efficiency,subtopic,Energy Management,Smart City,-3.06863423272361,-2.3287673474120565,37
-Climate-Responsive Architecture,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,47
-Mobile Government Services,subtopic,Digital Governance,Smart City,-0.7282464294558981,-0.5404125418161937,34
-Smart Grids And Iot Integration,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,47
-Renewable Energy Integration In Buildings,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,30
-Municipal Solid Waste (Msw) Analytics,subtopic,Waste Management,Smart City,-1.7967394007025976,-1.3283053195032908,46
-Water Recycling And Reuse Technologies,subtopic,Water Management,Smart City,-2.4481081383183527,0.12267972578943412,34
-Collaborative Budgeting Tools,subtopic,Civic Engagement,Smart City,-2.5379523235341805,-2.8640006235925153,41
-Biometric Identification Systems,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,42
-Greenhouse Gas Monitoring,subtopic,Environmental Monitoring,Smart City,2.007720798153592,-1.6193742329833118,33
-Parking Demand And Supply Analytics,subtopic,Urban Planning Analytics,Smart City,-1.9708407511611152,-1.7176375222613431,42
-Environmental Sensors On Street Lights,subtopic,Smart Street Lighting,Smart City,1.2412091942648198,-3.5058085323084196,33
-Smart Waste Management In Parks,subtopic,Urban Green Spaces,Smart City,0.46225267671404396,-1.3902454829388184,49
-Government Chatbots For Citizen Assistance,subtopic,E-Government Services,Smart City,0.9645267312098198,2.8863970516303534,35
-Smart Urban Planning For Improved Air Quality,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,47
-Augmented Reality Parking Assistance,subtopic,Smart Parking Solutions,Smart City,0.2963520852142736,3.311747168884068,43
-Infrastructure Readiness For Autonomous Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,43
-Accessibility For Persons With Disabilities,subtopic,Urban Mobility,Smart City,1.6679066462933427,-1.667671584663725,47
-Intelligent Road Infrastructure,subtopic,Intelligent Transportation Systems,Smart City,-0.09820513505650054,-0.6411721272331615,42
-Grid Resilience Planning,subtopic,Smart Grids,Smart City,1.068532391637422,-0.12945881708724755,35
-Distributed Energy Resources (Der) Management,subtopic,Energy Management,Smart City,-3.14472843662967,-2.1103047243083095,48
-Urban Heat Island Mitigation,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,45
-Blockchain In Public Administration,subtopic,Digital Governance,Smart City,-0.32414236346524633,-0.2926212470832749,36
-Iot In Energy Conservation,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,30
-Smart Windows And Shading Systems,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,40
-Reverse Vending Machines For Recycling,subtopic,Waste Management,Smart City,-1.730108204624928,-1.6507952576323224,36
-Water Scarcity Prediction Models,subtopic,Water Management,Smart City,-2.07793999333486,-0.3699219575362754,50
-Hackathons For Civic Innovation,subtopic,Civic Engagement,Smart City,-2.5410310864670347,-2.90551984587164,49
-Cybersecurity For Public Safety Systems,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,32
-Wildlife Tracking With Iot,subtopic,Environmental Monitoring,Smart City,1.852635777457796,-1.8784145659455254,47
-Housing Affordability Analysis,subtopic,Urban Planning Analytics,Smart City,-1.8478600933613876,-1.4684617283523695,43
-Wireless Communication For Street Light Coordination,subtopic,Smart Street Lighting,Smart City,1.5004232018864407,-3.9100363090062893,34
-Augmented Reality Nature Trails,subtopic,Urban Green Spaces,Smart City,0.27474515987022124,-1.6149973948754515,37
-Online Public Consultations,subtopic,E-Government Services,Smart City,1.6263224570831867,2.946155540376899,43
-Public Awareness Campaigns On Air Pollution,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,40
-Connected Vehicles For Smart Parking,subtopic,Smart Parking Solutions,Smart City,-0.0016701616402634012,3.4679523885073325,40
-Fleet Management For Urban Autonomous Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,50
-Carpooling Platforms,subtopic,Urban Mobility,Smart City,1.8017606044766155,-1.35810342030343,40
-Traffic Flow Optimization Algorithms,subtopic,Intelligent Transportation Systems,Smart City,-0.10562578213130416,-0.5491598685653097,32
-Grid Edge Technologies,subtopic,Smart Grids,Smart City,0.9416808248083883,-0.05256584459647688,34
-Energy Audit And Benchmarking,subtopic,Energy Management,Smart City,-3.236821597324531,-2.2980440032995406,40
-Green Roofs And Walls,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,35
-Intelligent Document Management,subtopic,Digital Governance,Smart City,-0.45899582219134916,-0.2640566294431225,39
-Connected Street Furniture,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,46
-Integrated Building Communication Systems,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,48
-Waste Segregation At Source,subtopic,Waste Management,Smart City,-1.5841743696802828,-1.59631367211133,43
-Intelligent Water Pumping Stations,subtopic,Water Management,Smart City,-2.2008848908113308,0.09062970765713231,46
-Citizen Science Initiatives,subtopic,Civic Engagement,Smart City,-2.2708492384032737,-3.0297081105706165,42
-Public Health Emergency Preparedness,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,34
-Smart Agriculture Practices For Environmental Conservation,subtopic,Environmental Monitoring,Smart City,1.7786600676140025,-1.450731714004074,36
-Retail And Commercial Space Optimization,subtopic,Urban Planning Analytics,Smart City,-1.8441634890605298,-1.695808554050187,40
-Automated Fault Detection In Street Lights,subtopic,Smart Street Lighting,Smart City,1.17572021953503,-3.577602106068517,35
-Urban Tree Canopy Monitoring,subtopic,Urban Green Spaces,Smart City,0.7195698486015527,-1.7941826937967562,49
-Smart Public Safety Reporting Apps,subtopic,E-Government Services,Smart City,1.347328182036588,3.34054695644074,41
-Air Quality Analytics And Reporting,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,47
-Automated Valet Parking,subtopic,Smart Parking Solutions,Smart City,0.17175068629300302,3.3619519328786485,38
-Autonomous Vehicle Charging Infrastructure,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,32
-Real-Time Transportation Updates,subtopic,Urban Mobility,Smart City,2.163725523156042,-1.311008969427502,45
-Automated License Plate Recognition (Alpr),subtopic,Intelligent Transportation Systems,Smart City,-0.18454897596579786,-0.4449154672113269,38
-Smart Sensors For Grid Monitoring,subtopic,Smart Grids,Smart City,0.7370627117691605,-0.17186566612982876,35
-Intelligent Load Shedding,subtopic,Energy Management,Smart City,-3.162194459624747,-2.1930053582069347,38
-Efficient Public Transportation,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,38
-Online Service Delivery,subtopic,Digital Governance,Smart City,-0.45916411957069336,-0.3827398384055006,44
-Iot For Disaster Management,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,49
-Emergency Evacuation Systems,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,49
-Gps-Enabled Waste Collection Routes,subtopic,Waste Management,Smart City,-1.5133724712365886,-1.9928259495757186,45
-Blockchain For Transparent Water Transactions,subtopic,Water Management,Smart City,-2.1811134106944876,0.036939277142725685,30
-Neighborhood Watch Apps,subtopic,Civic Engagement,Smart City,-2.4920710206165055,-2.851831720954686,42
-Smart Helmets For Police With Ar Capabilities,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,49
-Environmental Impact Assessment Tools,subtopic,Environmental Monitoring,Smart City,1.8505168474605105,-1.462111915195433,43
-Community Engagement Analytics,subtopic,Urban Planning Analytics,Smart City,-2.052446129523263,-1.5479215337166612,38
-Real-Time Energy Consumption Monitoring,subtopic,Smart Street Lighting,Smart City,1.1929288517110372,-3.3108863976999627,50
-Citizen Engagement Platforms For Park Planning,subtopic,Urban Green Spaces,Smart City,0.6644837965082611,-1.7632010965757265,43
-Cloud-Based Government Data Storage,subtopic,E-Government Services,Smart City,1.4602068995145778,2.778696071535489,43
-Sensor-Equipped Public Transportation For Air Quality Monitoring,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,37
-Parking Space Detection Cameras,subtopic,Smart Parking Solutions,Smart City,0.1772153299198284,3.342476608782445,34
-Regulations And Policies For Urban Autonomous Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,40
-Smart Toll Collection,subtopic,Urban Mobility,Smart City,1.9246898944325324,-1.645704046575778,45
-Dynamic Lane Management,subtopic,Intelligent Transportation Systems,Smart City,-0.1569245241621859,-0.3305758489803241,49
-Grid Data Analytics,subtopic,Smart Grids,Smart City,0.8208606925016141,0.0883276555629158,36
-Sustainable Urban Planning For Energy,subtopic,Energy Management,Smart City,-3.5902732521509413,-2.087960056908381,46
-Integrated Public And Active Transportation,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,37
-Smart Procurement Systems,subtopic,Digital Governance,Smart City,-0.6642069888946706,-0.2095381019599651,47
-Smart Irrigation Systems,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,46
-Water Conservation In Buildings,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,31
-Smart Fleet Management For Waste Trucks,subtopic,Waste Management,Smart City,-1.74529547814119,-1.3738405447819222,48
-Aquifer Recharge Management,subtopic,Water Management,Smart City,-2.4820458396325487,-0.00934492644992223,43
-Civic Crowdfunding Platforms,subtopic,Civic Engagement,Smart City,-2.5227862062944526,-2.7207680423940985,35
-Social Media Monitoring For Safety,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,34
-Coastal And Marine Environment Monitoring,subtopic,Environmental Monitoring,Smart City,1.8122880969240573,-1.4680272861639585,38
-Public Health Analytics In Urban Planning,subtopic,Urban Planning Analytics,Smart City,-1.7979820726286102,-1.7462156965125442,38
-Integration With Traffic Management Systems,subtopic,Smart Street Lighting,Smart City,1.2449065528061605,-3.688467316000555,34
-Green Space Microclimates Monitoring,subtopic,Urban Green Spaces,Smart City,0.4319163102913886,-1.9295766553241478,47
-E-Government Service Dashboards,subtopic,E-Government Services,Smart City,1.047927634480313,2.8909403481290346,43
-Air Quality Index (Aqi) Visualization Platforms,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,40
-Cloud-Based Parking Analytics,subtopic,Smart Parking Solutions,Smart City,0.06101719291223623,3.2395140193236664,33
-Real-Time Traffic Flow Optimization For Autonomy,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,37
-Hyperloop Technology,subtopic,Urban Mobility,Smart City,1.6482525604344156,-1.6419906620581903,32
-Emergency Vehicle Priority Systems,subtopic,Intelligent Transportation Systems,Smart City,-0.0014278194337071365,-0.40235111986404215,48
-Distributed Energy Resources (Der) Management,subtopic,Smart Grids,Smart City,0.8774423912841939,-0.3556289349410743,30
-Energy-Efficient Transportation Systems,subtopic,Energy Management,Smart City,-3.2046225862941187,-2.2443661143526996,38
-Stormwater Harvesting Systems,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,36
-Geospatial Information Systems (Gis) For Governance,subtopic,Digital Governance,Smart City,-0.6862668727312569,-0.2308875727254531,39
-Industrial Iot (Iiot) For Smart Manufacturing,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,42
-Smart Parking Solutions For Buildings,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,39
-Citizen Engagement Platforms For Waste Reduction,subtopic,Waste Management,Smart City,-1.710089207286998,-1.6967468859192762,33
-Gis (Geographic Information System) For Water Mapping,subtopic,Water Management,Smart City,-1.7995732649993266,0.17228762632293998,41
-Smart City Dashboards For Citizens,subtopic,Civic Engagement,Smart City,-2.5489708019707136,-2.520667562597876,42
-Safe City Command Centers,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,50
-Sustainable Urban Planning For Environmental Preservation,subtopic,Environmental Monitoring,Smart City,1.8798485822470345,-1.271006969053334,42
-Smart Zoning And Regulations,subtopic,Urban Planning Analytics,Smart City,-1.935841570783775,-1.2703829459328413,40
-Intelligent Crosswalk Lighting,subtopic,Smart Street Lighting,Smart City,1.3528449070384438,-3.5919025258512325,30
-Iot-Enabled Plant Health Monitoring,subtopic,Urban Green Spaces,Smart City,0.3164233369729677,-1.6790227187934237,42
-Government Social Media Engagement,subtopic,E-Government Services,Smart City,0.9510177534125863,2.8559870591553764,48
-Green Infrastructure For Air Pollution Mitigation,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,35
-Integration With Electric Vehicle Charging Stations,subtopic,Smart Parking Solutions,Smart City,0.255489713343945,3.27572539883652,45
-Urban Planning For Autonomous Vehicle Routes,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,32
-Electric Vehicle Infrastructure,subtopic,Urban Mobility,Smart City,2.090212603945938,-1.7235628690373237,45
-Predictive Traffic Modeling,subtopic,Intelligent Transportation Systems,Smart City,0.04569708868641813,-0.38358151460928525,32
-Transactive Energy Systems,subtopic,Smart Grids,Smart City,0.812471646497454,0.08626345652439574,33
-Green Building Standards,subtopic,Energy Management,Smart City,-3.0350674890282696,-1.952453627718621,32
-Eco-District Development,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,38
-Civic Tech Innovation,subtopic,Digital Governance,Smart City,-0.6298436017132306,-0.1784563262913109,41
-Iot In Retail For Smart Shopping,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,32
-Sustainable Building Design,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,46
-Circular Economy Practices In Waste Management,subtopic,Waste Management,Smart City,-1.7872523644443639,-1.7871846955088408,39
-Real-Time Monitoring Of Reservoir Levels,subtopic,Water Management,Smart City,-2.1776908939098276,0.021357261854979753,36
-Digital Civic Literacy Campaigns,subtopic,Civic Engagement,Smart City,-2.6474650845715706,-2.72143167762742,32
-Flood And Natural Disaster Early Warning Systems,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,48
-Real-Time Monitoring Of Deforestation,subtopic,Environmental Monitoring,Smart City,1.8303219690012678,-1.1231948245592056,42
-Green Space Allocation Optimization,subtopic,Urban Planning Analytics,Smart City,-1.8288313339415383,-1.3364547842917993,37
-Adaptive Street Lighting For Events,subtopic,Smart Street Lighting,Smart City,1.2513542623543148,-3.602601853553359,45
-Smart Urban Forestry Planning,subtopic,Urban Green Spaces,Smart City,0.14211123414307839,-1.4098890566430253,32
-Digital Records Management,subtopic,E-Government Services,Smart City,1.5081619507025303,3.2742457246509864,47
-Smart Construction Site Management For Dust Control,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,45
-Smart Parking Enforcement Solutions,subtopic,Smart Parking Solutions,Smart City,0.36930915100735473,3.046713350434922,48
-Ride-Sharing Pools With Autonomous Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,41
-Traffic Data Analytics,subtopic,Urban Mobility,Smart City,2.2714018156275615,-2.0056235231133672,47
-Traveler Information Systems,subtopic,Intelligent Transportation Systems,Smart City,-0.22585620694496655,-0.7482428748698067,30
-Grid Optimization Algorithms,subtopic,Smart Grids,Smart City,1.061713102083799,-0.03713300614934874,43
-Smart Charging Infrastructure For Electric Vehicles,subtopic,Energy Management,Smart City,-3.311098569045342,-2.501080581685497,48
-Renewable Energy Integration In Infrastructure,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,44
-Collaborative Decision-Making Platforms,subtopic,Digital Governance,Smart City,-0.6126054559245554,-0.30052838764181145,35
-Smart Home Automation,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,31
-Advanced Building Analytics,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,42
-Sustainable Packaging Solutions,subtopic,Waste Management,Smart City,-1.6331178736740064,-1.9077744491664925,35
-Data-Driven Water Policy Planning,subtopic,Water Management,Smart City,-2.0243104979489033,0.1367495074748787,39
-Community-Based Social Networks,subtopic,Civic Engagement,Smart City,-2.374765992061107,-2.7616429793455963,35
-Smart Infrastructure Resilience Planning,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,45
-Digital Twins For Environmental Simulation,subtopic,Environmental Monitoring,Smart City,1.8069078328508976,-1.4250115989297267,40
-Disaster Resilience Planning Analytics,subtopic,Urban Planning Analytics,Smart City,-1.8874646864531488,-1.656700455257188,34
-Street Light Data Analytics,subtopic,Smart Street Lighting,Smart City,1.361952233771713,-3.729017033363528,32
-Green Space Accessibility For Persons With Disabilities,subtopic,Urban Green Spaces,Smart City,0.16098283374649222,-1.6302252447803387,46
-Smart City Command Centers For Government Coordination,subtopic,E-Government Services,Smart City,0.9637865482994971,3.392443952038234,49
-Vehicle Emission Monitoring And Control,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,48
-Iot-Based Parking Infrastructure Planning,subtopic,Smart Parking Solutions,Smart City,0.11987329055901391,3.422700027583664,41
-Autonomous Vehicle Data Security And Privacy,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,40
-Dynamic Route Planning,subtopic,Urban Mobility,Smart City,1.8910867913087472,-1.7816042707672624,43
-Traffic Management Centers,subtopic,Intelligent Transportation Systems,Smart City,-0.08938124798321155,-0.5833946230149375,31
-Smart Grid Communication Networks,subtopic,Smart Grids,Smart City,0.9993639948646657,-0.23443165709320435,31
-Thermal Energy Storage Solutions,subtopic,Energy Management,Smart City,-3.057934393207243,-2.050058330036434,34
-Smart Grids For Infrastructure,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,36
-Social Media Integration For Governance,subtopic,Digital Governance,Smart City,-0.49819443497723637,-0.3116949517564986,32
-Iot-Enabled Public Safety,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,40
-Remote Monitoring And Control Of Building Systems,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,39
-Community-Based Waste Cleanup Initiatives,subtopic,Waste Management,Smart City,-1.9367497511016032,-1.6253196933568586,37
-Smart Water Billing And Payment Systems,subtopic,Water Management,Smart City,-2.1144729202837933,0.0561279505645716,30
-Interactive Public Art Installations,subtopic,Civic Engagement,Smart City,-2.456783911667334,-2.554264492864924,35
-Autonomous Vehicles For Emergency Response,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,32
-River And Lake Health Monitoring,subtopic,Environmental Monitoring,Smart City,1.9008241538383646,-1.6203945409421687,50
-Historical Urban Development Analysis,subtopic,Urban Planning Analytics,Smart City,-1.9839007316822361,-1.6865455706445158,33
-Smart Street Lighting For Urban Beautification,subtopic,Smart Street Lighting,Smart City,1.2250138774912294,-3.7693582524667026,34
-Urban Agriculture Initiatives,subtopic,Urban Green Spaces,Smart City,0.49511742732106856,-1.2717689471451101,46
-E-Health Services And Telemedicine,subtopic,E-Government Services,Smart City,1.2082536574032832,2.9379846049776104,35
-Real-Time Monitoring Of Industrial Emissions,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,44
-Real-Time Traffic Flow Optimization,subtopic,Smart Parking Solutions,Smart City,-0.020979889487670406,3.2757144066063195,44
-Multi-Modal Transportation Integration,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,38
-Traffic Incident Management,subtopic,Urban Mobility,Smart City,1.9056928604912966,-1.6769295947929233,44
-Intelligent Pedestrian Crosswalks,subtopic,Intelligent Transportation Systems,Smart City,-0.03527455914688492,-0.6048495687506422,33
-Grid-Connected Energy Storage,subtopic,Smart Grids,Smart City,0.9583766799895617,-0.09589765964783489,38
-Energy-Efficient Industrial Processes,subtopic,Energy Management,Smart City,-3.4163114989045362,-2.3331269436205178,30
-Smart Parking Solutions,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,40
-Government Analytics,subtopic,Digital Governance,Smart City,-0.49196485077949603,-0.5588309484892399,43
-Wearable Iot Devices For Citizens,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,34
-Sensor Networks For Building Health,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,43
-Data-Driven Waste Management Policies,subtopic,Waste Management,Smart City,-1.7194275912079615,-1.6057215534951375,32
-Citizen Engagement In Water Conservation,subtopic,Water Management,Smart City,-2.2521605008201697,-0.15823184547945604,37
-Augmented Reality For Civic Awareness,subtopic,Civic Engagement,Smart City,-2.762492384932075,-2.636433968923399,39
-Gun Violence Prediction Models,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,49
-Smart Pest Control With Minimal Environmental Impact,subtopic,Environmental Monitoring,Smart City,1.8575936010219747,-1.3664840604758934,33
-Cultural Heritage Preservation Analytics,subtopic,Urban Planning Analytics,Smart City,-2.130138580671572,-1.7765612057110591,50
-Weather-Responsive Street Light Control,subtopic,Smart Street Lighting,Smart City,1.177111097157384,-3.947195712943725,42
-Pollinator-Friendly Green Space Designs,subtopic,Urban Green Spaces,Smart City,0.30954771816424426,-1.6264477249722065,44
-Digital Educational Services,subtopic,E-Government Services,Smart City,1.29853091819739,2.9491845377490256,49
-Integration With Health Systems For Air Quality-Health Linkage,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,46
-Parking Space Utilization Data,subtopic,Smart Parking Solutions,Smart City,0.0019527531652582808,3.0727836605239673,44
-Emergency Response For Autonomous Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,37
-Smart Commuting Apps,subtopic,Urban Mobility,Smart City,1.873682255441731,-1.793585369930394,30
-Smart Bus Rapid Transit (Brt) Systems,subtopic,Intelligent Transportation Systems,Smart City,0.08623526201527802,-0.6431172009285552,47
-Grid Asset Management,subtopic,Smart Grids,Smart City,0.8758066432181557,0.03016505979278425,42
-Blockchain For Energy Transactions,subtopic,Energy Management,Smart City,-3.2044956129657014,-2.1955415652628116,46
-Sustainable Materials Recycling,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,48
-E-Voting Systems,subtopic,Digital Governance,Smart City,-0.9167767612686267,-0.0437968958141475,48
-Real-Time Weather Monitoring With Iot,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,44
-Intelligent Waste Management In Buildings,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,46
-Waste Reduction Campaigns,subtopic,Waste Management,Smart City,-1.6195087369881216,-1.4972237730463158,39
-Sustainable Urban Planning For Water,subtopic,Water Management,Smart City,-2.1625050132798687,-0.17726063258900032,48
-Iot-Enabled Citizen Feedback Devices,subtopic,Civic Engagement,Smart City,-2.4536551736964602,-2.5773679662465607,38
-Ai-Powered Emergency Dispatch Systems,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,43
-Environmental Data Analytics,subtopic,Environmental Monitoring,Smart City,1.735775836705617,-1.425630248776471,38
-Smart Growth And Sustainable Development Analytics,subtopic,Urban Planning Analytics,Smart City,-1.9792301693300294,-1.7356461352889474,47
-Collaborative Street Lighting Design,subtopic,Smart Street Lighting,Smart City,1.20424922607063,-3.5894299928881934,50
-Social Inclusion Programs In Green Spaces,subtopic,Urban Green Spaces,Smart City,0.3606572686600854,-1.9140453520239933,43
-E-Justice Systems,subtopic,E-Government Services,Smart City,1.058087881501653,2.987346189785593,45
-Urban Forestry Strategies For Air Quality Improvement,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,38
-Intelligent Parking Garage Management,subtopic,Smart Parking Solutions,Smart City,0.10748119105182044,3.076443360194487,34
-User Experience In Autonomous Vehicles,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,38
-Autonomous Public Transport,subtopic,Urban Mobility,Smart City,2.037553552173301,-1.7291802091145914,43
-Traffic Signal Coordination,subtopic,Intelligent Transportation Systems,Smart City,-0.4028740407781338,-0.7007892428985001,37
-Energy Market Integration,subtopic,Smart Grids,Smart City,0.8448598384509737,-0.3519527705148986,35
-Energy Harvesting Technologies,subtopic,Energy Management,Smart City,-3.1574150950010784,-2.448067947848313,45
-Smart Infrastructure Monitoring,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,33
-Smart Contracts For Governance,subtopic,Digital Governance,Smart City,-0.7078544676737227,-0.30475445753126096,46
-Iot In Education For Smart Learning,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,34
-Smart Appliances And Equipment,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,44
-Public Awareness Programs On Responsible Disposal,subtopic,Waste Management,Smart City,-1.5367755618065253,-1.4815853890708777,38
-Desalination Technologies,subtopic,Water Management,Smart City,-2.27751885565135,0.03463568541659296,41
-Geospatial Tools For Community Mapping,subtopic,Civic Engagement,Smart City,-2.5114025740796073,-2.805873818681321,36
-Location-Based Emergency Alerts,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,47
-Climate Change Adaptation Monitoring,subtopic,Environmental Monitoring,Smart City,2.100760099368335,-1.3979197587140546,48
-Crime Pattern Analysis For Safer Urban Planning,subtopic,Urban Planning Analytics,Smart City,-2.0028508557651405,-1.3193190170436322,40
-Emergency Response Integration With Street Lights,subtopic,Smart Street Lighting,Smart City,1.080768188989679,-3.542614554439248,48
-Public Art Installations In Parks,subtopic,Urban Green Spaces,Smart City,0.15800310817325752,-1.5087040755394696,39
-E-Commerce Platforms For Government Procurement,subtopic,E-Government Services,Smart City,1.2530137432052169,3.2524814219455775,30
-Smart Waste Management For Air Quality Preservation,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,34
-Mobile Alerts For Expiring Parking Sessions,subtopic,Smart Parking Solutions,Smart City,0.2016750014919107,3.3389464445585175,48
-Accessibility For Persons With Disabilities In Autonomous Transport,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,48
-Smart Crosswalks,subtopic,Urban Mobility,Smart City,2.190212820941304,-2.010707905674614,47
-Automated Public Transport Fare Collection,subtopic,Intelligent Transportation Systems,Smart City,-0.08414744344794958,-0.6926218539369653,41
-Virtual Power Plants (Vpps),subtopic,Smart Grids,Smart City,1.272885812072769,0.02501493240607197,43
-Smart Water And Wastewater Management,subtopic,Energy Management,Smart City,-3.061194969705111,-1.8044363549863829,44
-Adaptive Infrastructure Design,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,46
-Real-Time Monitoring Of Government Services,subtopic,Digital Governance,Smart City,-0.5330507289578654,-0.2885832781296436,36
-Connected Fleet Management,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,47
-Adaptive Lighting Control,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,40
-Smart Material Recovery Facilities,subtopic,Waste Management,Smart City,-1.6287016858052852,-1.9104070637986685,50
-Smart Water Grids,subtopic,Water Management,Smart City,-2.245989189584353,0.028234237569703627,47
-Civic Hacktivism Initiatives,subtopic,Civic Engagement,Smart City,-2.3027793462246096,-3.023999957847453,37
-Smart Public Transportation Security,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,32
-Autonomous Drones For Environmental Surveillance,subtopic,Environmental Monitoring,Smart City,1.9831758227080638,-1.6689811401285761,39
-Mixed-Use Development Planning,subtopic,Urban Planning Analytics,Smart City,-1.9018115713799724,-1.4182198217230955,42
-Citizen Engagement Platforms For Street Lighting,subtopic,Smart Street Lighting,Smart City,0.9984597069106331,-3.4882473402351226,45
-Smart Water Features In Urban Parks,subtopic,Urban Green Spaces,Smart City,0.6272016515694814,-1.7174645044154204,44
-Virtual Town Hall Meetings,subtopic,E-Government Services,Smart City,1.259977313430383,3.0070565602700867,33
-Machine Learning For Air Quality Pattern Recognition,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,32
-Collaboration With Ride-Sharing Services,subtopic,Smart Parking Solutions,Smart City,0.2889878209009649,3.6134661646458492,33
-Autonomous Vehicle Sensor Technologies,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,34
-Traffic Enforcement Technologies,subtopic,Urban Mobility,Smart City,1.8676368189066894,-2.0424318598351783,46
-Vehicle Platooning Systems,subtopic,Intelligent Transportation Systems,Smart City,-0.03629605477302777,-0.23633640952788715,49
-Grid Voltage Stability Solutions,subtopic,Smart Grids,Smart City,1.0532105686001898,-0.15016738265702143,33
-Cognitive Buildings For Energy Optimization,subtopic,Energy Management,Smart City,-3.235987621065883,-2.1068271461604122,47
-Microgrid Implementation,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,32
-Virtual Town Halls,subtopic,Digital Governance,Smart City,-0.6744876315278571,-0.230422830371465,50
-Precision Agriculture Using Iot,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,39
-Smart Meeting Room Management,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,38
-Robotics In Waste Sorting,subtopic,Waste Management,Smart City,-1.6825007350711618,-1.6869730718795635,42
-Weather Forecasting For Water Management,subtopic,Water Management,Smart City,-2.5251438056410307,0.07616178086525481,44
-Citizen Journalism Platforms,subtopic,Civic Engagement,Smart City,-2.8117405933436452,-2.6593927302275455,39
-Surveillance-Free Public Spaces,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,47
-Mobile Apps For Reporting Environmental Concerns,subtopic,Environmental Monitoring,Smart City,1.4011187867128656,-1.4602010364892173,41
-Real Estate Market Trend Analysis,subtopic,Urban Planning Analytics,Smart City,-1.6506703118578379,-1.6832067438207967,45
-Artistic And Interactive Street Lighting,subtopic,Smart Street Lighting,Smart City,1.279453867435647,-3.6718313748719087,36
-Integration Of Green Spaces In Urban Planning,subtopic,Urban Green Spaces,Smart City,0.4238315964864013,-1.408008557646332,37
-Blockchain For Secure Government Transactions,subtopic,E-Government Services,Smart City,1.037443278594935,3.139234503523266,35
-Collaboration With Industries For Sustainable Emission Practices,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,34
-Autonomous Vehicle Parking Solutions,subtopic,Smart Parking Solutions,Smart City,0.3545776944677901,3.308708656737602,44
-Environmental Impact Of Autonomous Transportation,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,48
-Traffic Simulation Modeling,subtopic,Urban Mobility,Smart City,2.1847170047773163,-1.7995688265622767,48
-Smart Intersection Technologies,subtopic,Intelligent Transportation Systems,Smart City,-0.07324673043509829,-0.4199691126923911,40
-Predictive Maintenance For Grid Infrastructure,subtopic,Smart Grids,Smart City,0.9686882389684781,-0.17764059120788075,41
-Integration Of Iot In Energy Management,subtopic,Energy Management,Smart City,-3.2718830108332417,-2.4396075681811196,30
-Water-Saving Technologies,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,37
-Artificial Intelligence In Governance,subtopic,Digital Governance,Smart City,-0.480385035227051,-0.13678436811785424,39
-Smart Cameras And Surveillance,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,44
-Virtual Concierge Services,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,40
-Advanced Analytics For Waste Forecasting,subtopic,Waste Management,Smart City,-1.6295551408609825,-1.9328684010440396,42
-Community-Based Water Quality Monitoring,subtopic,Water Management,Smart City,-1.8151397548469548,-0.18357859517813413,41
-Civic Engagement Metrics And Analytics,subtopic,Civic Engagement,Smart City,-2.372189246915045,-2.677672826831189,34
-Public Safety Training Simulations,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,41
-Smart Waste Management For Environmental Sustainability,subtopic,Environmental Monitoring,Smart City,1.6045470675011522,-1.4198684291532375,50
-Noise And Air Quality Impact Analysis,subtopic,Urban Planning Analytics,Smart City,-2.0551971829270888,-1.9425071628157577,45
-Street Light Positioning For Enhanced Visibility,subtopic,Smart Street Lighting,Smart City,1.2226075906759661,-3.716779057457763,31
-Environmental Education Programs In Parks,subtopic,Urban Green Spaces,Smart City,0.2918975276228594,-1.6033616142623752,47
-Geospatial Information Systems (Gis) For Government Planning,subtopic,E-Government Services,Smart City,1.379403791671759,2.912576984620701,45
-Integration With Weather Forecasting For Air Quality Management,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,46
-Smart Parking For Bike And Scooter Sharing,subtopic,Smart Parking Solutions,Smart City,0.08306735619886572,3.479378708740721,37
-Collaboration With Smart Infrastructure For Autonomy,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,35
-Urban Air Mobility,subtopic,Urban Mobility,Smart City,2.0614590861339783,-1.8738238887371952,43
-Smart Traffic Monitoring And Control Apps,subtopic,Intelligent Transportation Systems,Smart City,0.05772397093833846,-0.38288491901184873,32
-Grid Reliability And Quality Monitoring,subtopic,Smart Grids,Smart City,1.030112322230701,-0.018819826270157408,31
-Grid-Interactive Efficient Buildings,subtopic,Energy Management,Smart City,-3.3255539287914635,-2.19187021680961,36
-Sustainable Infrastructure Policy Development,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,47
-Predictive Analytics For Policy Planning,subtopic,Digital Governance,Smart City,-0.7297618417698044,-0.4573303792333167,41
-Iot For Social Inclusion,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,50
-Ai-Driven Building Operations,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,35
-Smart Waste Bin Location Optimization,subtopic,Waste Management,Smart City,-1.747069518491425,-1.779818307626605,38
-Water Infrastructure Resilience,subtopic,Water Management,Smart City,-2.277681283250228,0.00426005946453479,42
-Online Civic Training Programs,subtopic,Civic Engagement,Smart City,-2.753018979091889,-2.9196783696476603,43
-Mobile Apps For Reporting Suspicious Activity,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,38
-Satellite Imaging For Environmental Observations,subtopic,Environmental Monitoring,Smart City,2.118670610466853,-1.2849959507892508,49
-Infrastructure Resilience Analytics,subtopic,Urban Planning Analytics,Smart City,-2.157609412399017,-1.7911354888945052,32
-Integration With Smart City Infrastructure,subtopic,Smart Street Lighting,Smart City,1.1171575808091923,-3.760690711423758,44
-Urban Green Space Resilience Planning,subtopic,Urban Green Spaces,Smart City,0.3179748613847878,-1.720096721331669,48
-Digital Cultural Heritage Preservation,subtopic,E-Government Services,Smart City,1.0930209316684325,2.8764082068532497,45
-Air Quality Data Sharing Platforms,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,31
-Public Awareness Campaigns On Smart Parking,subtopic,Smart Parking Solutions,Smart City,0.0638901210976218,3.320814874298029,38
-Autonomous Vehicle Simulation And Testing,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,42
-Smart Transportation Policy Planning,subtopic,Urban Mobility,Smart City,1.9367084326859876,-1.9765349791581786,49
-Traffic Simulation And Modeling Tools,subtopic,Intelligent Transportation Systems,Smart City,-0.1143595723963908,-0.7868413549814908,37
-Integrated Volt-Var Control (Ivvc),subtopic,Smart Grids,Smart City,0.8982740381265397,0.016670663212829007,39
-Energy Conservation Policies And Initiatives,subtopic,Energy Management,Smart City,-3.140313490756754,-2.4392889427481976,48
-Carbon-Neutral Construction Practices,subtopic,Sustainable InfrastrUctUre,Smart City,<class 'float'>,<class 'float'>,34
-Cyber-Resilient Governance Systems,subtopic,Digital Governance,Smart City,-0.9786190999471065,-0.48819582892299307,45
-Intelligent Waste Sorting Systems,subtopic,IoT in Cities,Smart City,<class 'float'>,<class 'float'>,47
-Smart Home Integration Within Buildings,subtopic,Smart BUildings,Smart City,<class 'float'>,<class 'float'>,37
-Mobile Apps For Reporting Illegal Dumping,subtopic,Waste Management,Smart City,-1.878153608329268,-1.7455475699190246,43
-Mobile Apps For Reporting Water Issues,subtopic,Water Management,Smart City,-2.1982324948804752,0.024661284391799217,31
-Youth Engagement Platforms In Smart Cities,subtopic,Civic Engagement,Smart City,-2.481042969121935,-2.872065386655469,39
-Crisis Communication Systems,subtopic,PUblic Safety,Smart City,<class 'float'>,<class 'float'>,49
-Citizen Science Initiatives For Environmental Data Collection,subtopic,Environmental Monitoring,Smart City,1.7105741801731027,-1.2550714931411489,33
-Urban Mobility Pattern Analysis,subtopic,Urban Planning Analytics,Smart City,-1.9913805449612823,-1.321887735018758,36
-Urban Planning With Smart Street Lighting Analytics,subtopic,Smart Street Lighting,Smart City,1.1559947898756842,-3.661809703361827,37
-Events And Activities Planning For Green Spaces,subtopic,Urban Green Spaces,Smart City,0.16521546262936798,-1.7197634657286145,42
-Civic Engagement Platforms For Government-Community Interaction,subtopic,E-Government Services,Smart City,1.2477716206863487,2.70909839791115,34
-Policy Initiatives For Air Quality Improvement In Smart Cities,subtopic,Air QUality Monitoring,Smart City,<class 'float'>,<class 'float'>,31
-Integration With Urban Planning For Parking Optimization,subtopic,Smart Parking Solutions,Smart City,0.36793520393906654,3.298309813070593,34
-Urban Resilience Planning With Autonomous Transport,subtopic,Urban Autonomous vehicles,Smart City,<class 'float'>,<class 'float'>,34
+Urban Mobility,topic,Smart City,,1.2389543291892364,0.6191015191790483,90
+Intelligent Transportation Systems,topic,Smart City,,1.0256525781267956,-2.562650721130108,73
+Smart Grids,topic,Smart City,,-0.3205039202966752,1.0734080561266952,69
+Energy Management,topic,Smart City,,0.5975507589198314,2.9363505294170302,74
+Sustainable Infrastructure,topic,Smart City,,2.0653994506321887,1.1767342890621642,61
+Digital Governance,topic,Smart City,,-1.9466520679609107,-2.4302787144720797,75
+Iot In Cities,topic,Smart City,,0.1433962314389771,-3.7902179083874774,81
+Smart Buildings,topic,Smart City,,2.2475247541959633,0.3174679166316232,68
+Waste Management,topic,Smart City,,-1.2584067966998225,0.6291873205435897,61
+Water Management,topic,Smart City,,0.6008933547467964,2.4612261199765033,62
+Civic Engagement,topic,Smart City,,-0.06832326138658518,-0.184622259767413,72
+Public Safety,topic,Smart City,,-1.3727712988888607,-0.9730938111371122,85
+Environmental Monitoring,topic,Smart City,,0.42788208217568413,-1.6739953943966586,77
+Urban Planning Analytics,topic,Smart City,,-1.4242227722447227,-2.221940524685185,77
+Smart Street Lighting,topic,Smart City,,1.3701455296485847,0.8439595068639777,86
+Urban Green Spaces,topic,Smart City,,0.820045310417072,1.304406527039815,77
+E-Government Services,topic,Smart City,,-1.6504214696567976,2.301210313751825,80
+Air Quality Monitoring,topic,Smart City,,0.058543577165224486,-0.016516479430994494,69
+Smart Parking Solutions,topic,Smart City,,-0.9905326374078718,-1.586641256120289,66
+Urban Autonomous Vehicles,topic,Smart City,,1.2410417682008492,1.1591017000699881,86
+Public Transit Optimization,subtopic,Urban Mobility,Smart City,1.0288223704294313,0.35788770080010357,47
+Adaptive Traffic Signal Control,subtopic,Intelligent Transportation Systems,Smart City,0.9534185821063159,-2.498846713456573,39
+Advanced Metering Infrastructure (Ami),subtopic,Smart Grids,Smart City,-0.19723130070133146,0.9749856229485919,35
+Energy Consumption Monitoring,subtopic,Energy Management,Smart City,0.5262050405738743,3.087512618172683,48
+Green Building Design,subtopic,Sustainable Infrastructure,Smart City,1.8478464218626987,1.0187192951597328,41
+E-Government Services,subtopic,Digital Governance,Smart City,-1.8883666653436073,-2.4401556711089047,43
+Smart Sensors Deployment,subtopic,Iot In Cities,Smart City,0.07449049761842429,-3.909913109390505,36
+Building Energy Management Systems (Bems),subtopic,Smart Buildings,Smart City,2.4712022410545047,0.23296286306781527,30
+Smart Bin Monitoring Systems,subtopic,Waste Management,Smart City,-1.2691892676266932,0.4133588190167998,49
+Smart Water Metering Systems,subtopic,Water Management,Smart City,0.5554822462485566,2.554400585874592,38
+Digital Participatory Platforms,subtopic,Civic Engagement,Smart City,-0.022818801588334707,-0.013760134361876925,41
+Emergency Response Systems,subtopic,Public Safety,Smart City,-1.3824667992523554,-0.973044374266166,36
+Air Quality Monitoring Systems,subtopic,Environmental Monitoring,Smart City,0.6231743775836405,-1.2637049004331868,50
+Spatial Data Analysis For Urban Planning,subtopic,Urban Planning Analytics,Smart City,-1.4288776395188507,-2.357420573839496,47
+Intelligent Led Street Lighting,subtopic,Smart Street Lighting,Smart City,1.5427883271425509,0.8807771192638475,36
+Smart Park Design And Management,subtopic,Urban Green Spaces,Smart City,0.8245811386982286,1.305740871978947,41
+Digital Citizen Identity Management,subtopic,E-Government Services,Smart City,-1.7306533003434552,2.375271948761374,31
+Sensor Networks For Urban Air Quality,subtopic,Air Quality Monitoring,Smart City,-0.14181053238927654,-0.2516658782733564,48
+Iot-Enabled Parking Space Monitoring,subtopic,Smart Parking Solutions,Smart City,-0.8264326497604157,-1.334336150591559,42
+Self-Driving Public Transportation,subtopic,Urban Autonomous Vehicles,Smart City,1.0398554891197396,1.048104932154256,30
+Micro-Mobility Solutions,subtopic,Urban Mobility,Smart City,1.4937596809184703,0.8723597656626587,38
+Vehicle-To-Everything (V2X) Communication,subtopic,Intelligent Transportation Systems,Smart City,1.005081796955432,-2.57837035904501,30
+Demand Response Systems,subtopic,Smart Grids,Smart City,-0.27836511622362503,1.1525139265323132,32
+Smart Grid Integration,subtopic,Energy Management,Smart City,0.5307265977554616,2.979231936941263,50
+Eco-Friendly Construction Materials,subtopic,Sustainable Infrastructure,Smart City,1.8455941383284853,1.2475289291626337,49
+Digital Citizen Participation,subtopic,Digital Governance,Smart City,-1.922933529565893,-2.4480387477252536,34
+Iot-Enabled Smart Lighting Systems,subtopic,Iot In Cities,Smart City,0.062009216975387166,-3.782905945244247,32
+Intelligent Lighting Systems,subtopic,Smart Buildings,Smart City,2.2278855421184462,0.1787628035455264,35
+Waste Sorting Technologies,subtopic,Waste Management,Smart City,-1.3457513312448637,0.9674992014425617,46
+Iot-Enabled Water Quality Monitoring,subtopic,Water Management,Smart City,0.36620772816377506,2.236409727768854,40
+Crowdsourced Urban Planning,subtopic,Civic Engagement,Smart City,-0.05699530212235703,-0.08672915485007306,36
+Smart Surveillance Technologies,subtopic,Public Safety,Smart City,-1.3738391793703193,-1.0380285557272886,33
+Iot-Enabled Environmental Sensors,subtopic,Environmental Monitoring,Smart City,0.4530229631832071,-1.645213601843799,34
+Predictive Modeling For Population Growth,subtopic,Urban Planning Analytics,Smart City,-1.3933948381085621,-2.204795698285306,39
+Motion-Sensing Street Lights,subtopic,Smart Street Lighting,Smart City,1.4940829616331162,0.6186446680223391,45
+Green Space Accessibility For Persons With Disabilities,subtopic,Urban Green Spaces,Smart City,0.8639758015305672,1.4625626609899156,48
+Online Government Portals,subtopic,E-Government Services,Smart City,-1.4257908144740652,2.192181703434475,30
+Iot-Enabled Air Quality Monitoring,subtopic,Air Quality Monitoring,Smart City,0.08612986078830623,-0.10816091764517036,32
+Mobile Apps For Parking Availability,subtopic,Smart Parking Solutions,Smart City,-0.9919549412777668,-1.5866682609589307,33
+Autonomous Ride-Sharing Services,subtopic,Urban Autonomous Vehicles,Smart City,1.1668372857182283,0.9731473931772844,34
+Traffic Flow Management,subtopic,Urban Mobility,Smart City,1.3219440019288033,0.9436651372794795,48
+Cooperative Adaptive Cruise Control (Cacc),subtopic,Intelligent Transportation Systems,Smart City,1.314548689253878,-2.1698069432960114,50
+Smart Metering Technology,subtopic,Smart Grids,Smart City,-0.29493712316336057,0.6885598859489681,42
+Demand-Side Management,subtopic,Energy Management,Smart City,0.5739181934859459,3.006176706013301,33
+Urban Green Spaces,subtopic,Sustainable Infrastructure,Smart City,2.0117310151621486,1.2785330819831284,40
+Open Data Initiatives,subtopic,Digital Governance,Smart City,-1.895385702294415,-2.472365328172875,38
+Connected Intelligent Buildings,subtopic,Iot In Cities,Smart City,0.15505358420598916,-3.8350106433927222,42
+Occupancy Sensors And Analytics,subtopic,Smart Buildings,Smart City,2.333917208428378,0.059677640765767426,34
+Rfid-Based Waste Tracking,subtopic,Waste Management,Smart City,-1.2411285959292984,0.42614218297472106,36
+Leak Detection And Prevention,subtopic,Water Management,Smart City,0.5660350572272709,2.500018941249129,43
+E-Government Services Accessibility,subtopic,Civic Engagement,Smart City,-0.3778568595833187,-0.02235276786759402,38
+Predictive Policing Models,subtopic,Public Safety,Smart City,-1.0825768203596353,-0.9459484622784259,35
+Smart Weather Stations,subtopic,Environmental Monitoring,Smart City,0.19154849750051808,-1.684477235560461,31
+Traffic Flow Analytics For Transportation Planning,subtopic,Urban Planning Analytics,Smart City,-1.3899206709917244,-2.4622687933546548,50
+Adaptive Brightness Control,subtopic,Smart Street Lighting,Smart City,1.7060607874994296,0.8886762599898622,41
+Intelligent Irrigation Systems For Parks,subtopic,Urban Green Spaces,Smart City,0.6385060157703741,1.3888584753411326,36
+Mobile Government Applications,subtopic,E-Government Services,Smart City,-1.5705089358964557,2.7068520337543935,44
+Mobile Air Quality Monitoring Stations,subtopic,Air Quality Monitoring,Smart City,0.2495457075860892,0.10233285465632837,34
+Automated Parking Guidance Systems,subtopic,Smart Parking Solutions,Smart City,-0.9401458503445023,-1.8878213568242088,36
+Urban Autonomous Taxis,subtopic,Urban Autonomous Vehicles,Smart City,1.3609269769146244,1.2531551912026764,50
+Intelligent Traffic Signal Systems,subtopic,Urban Mobility,Smart City,1.2713437955763844,0.695100554891824,46
+Connected Vehicles Networks,subtopic,Intelligent Transportation Systems,Smart City,0.9780487298754706,-2.598265417607355,39
+Distribution Management Systems (Dms),subtopic,Smart Grids,Smart City,-0.3826164547420039,0.7416668866832955,48
+Automated Demand Response,subtopic,Energy Management,Smart City,0.41580640772829547,2.867222268409845,36
+Low-Impact Development (Lid),subtopic,Sustainable Infrastructure,Smart City,2.0668884169246864,1.1876572075563994,48
+Civic Engagement Platforms,subtopic,Digital Governance,Smart City,-1.856901634160792,-2.2067030427223826,32
+Iot In Urban Agriculture,subtopic,Iot In Cities,Smart City,0.06145693718418169,-3.694388616016524,35
+"Smart Hvac (Heating, Ventilation, And Air Conditioning) Systems",subtopic,Smart Buildings,Smart City,2.110447160267277,0.48708580287837877,31
+Iot-Enabled Waste Collection,subtopic,Waste Management,Smart City,-1.2299389702249408,0.6152392411444104,43
+Automated Water Distribution Systems,subtopic,Water Management,Smart City,0.9655250318716537,2.431309234808226,38
+Citizen Feedback Systems,subtopic,Civic Engagement,Smart City,-0.2857162558594567,0.020934086451674522,34
+Real-Time Crime Mapping,subtopic,Public Safety,Smart City,-1.2949795945984581,-0.5292812189119949,48
+Real-Time Pollution Tracking,subtopic,Environmental Monitoring,Smart City,0.35652926968181003,-1.9533021803688269,31
+Land Use Pattern Analysis,subtopic,Urban Planning Analytics,Smart City,-1.4273862275830471,-2.209149007211841,40
+Iot-Enabled Street Light Monitoring,subtopic,Smart Street Lighting,Smart City,1.3723515301488645,0.8442509496603038,43
+Urban Biodiversity Conservation,subtopic,Urban Green Spaces,Smart City,0.8014965006584149,1.7922208343867463,50
+E-Government Service Accessibility,subtopic,E-Government Services,Smart City,-1.8241690543603608,2.0829023700062796,37
+Real-Time Pollution Mapping,subtopic,Air Quality Monitoring,Smart City,0.2656622703881156,-0.14952667243511159,31
+Sensor-Equipped Parking Spaces,subtopic,Smart Parking Solutions,Smart City,-0.8900707907492837,-1.6637661158171848,44
+Automated Bus Systems,subtopic,Urban Autonomous Vehicles,Smart City,1.273391780511169,1.4087924632953714,31
+Pedestrian-Friendly Infrastructure,subtopic,Urban Mobility,Smart City,1.1661767805337262,0.37487991765577056,46
+Traffic Surveillance Cameras,subtopic,Intelligent Transportation Systems,Smart City,0.81972946915731,-2.6676864610538975,38
+Microgrid Solutions,subtopic,Smart Grids,Smart City,-0.46844927520533913,1.0188029253794164,38
+Building Energy Management Systems (Bems),subtopic,Energy Management,Smart City,0.7663110852032964,2.8117409586950703,36
+Smart Water Management,subtopic,Sustainable Infrastructure,Smart City,2.1900535459502155,1.1851819157760672,30
+Smart City Portals,subtopic,Digital Governance,Smart City,-2.0884549149299194,-2.0804489891351565,38
+Smart Waste Management,subtopic,Iot In Cities,Smart City,0.13580760997226005,-3.929344463956766,31
+Automated Temperature And Climate Control,subtopic,Smart Buildings,Smart City,2.368258557868208,0.2223254299507038,33
+Automated Waste Collection Systems,subtopic,Waste Management,Smart City,-1.6126825517865278,0.6925888990271392,38
+Real-Time Water Consumption Analytics,subtopic,Water Management,Smart City,0.48526877131454443,2.194219864635677,33
+Community Decision-Making Apps,subtopic,Civic Engagement,Smart City,-0.06594959746659712,-0.17052402292166452,41
+Smart Street Lighting For Safety,subtopic,Public Safety,Smart City,-1.5749811675004088,-0.743162564773515,41
+Water Quality Monitoring Networks,subtopic,Environmental Monitoring,Smart City,0.3959099195104396,-1.7699693240560015,41
+Real-Time Infrastructure Utilization Monitoring,subtopic,Urban Planning Analytics,Smart City,-1.4466284009981207,-2.1221405757502074,30
+Remote Management Of Street Lights,subtopic,Smart Street Lighting,Smart City,1.1634488522344624,0.9567193802110407,44
+Sensor Networks For Green Space Monitoring,subtopic,Urban Green Spaces,Smart City,1.058893867725967,0.9817778174764101,43
+Electronic Document Submission,subtopic,E-Government Services,Smart City,-1.6824241978539851,2.2495165708360285,32
+Indoor Air Quality Monitoring Systems,subtopic,Air Quality Monitoring,Smart City,0.06572847343373091,-0.008730466403535718,37
+Real-Time Parking Occupancy Data,subtopic,Smart Parking Solutions,Smart City,-1.053852190924745,-1.8768812121014034,31
+Smart Traffic Management For Autonomous Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,1.2374945427084345,1.1919955281192975,38
+Bike-Sharing Programs,subtopic,Urban Mobility,Smart City,1.2399802138999396,0.6515189520088266,42
+Incident Detection And Management,subtopic,Intelligent Transportation Systems,Smart City,0.7824492712110304,-2.6607555241007583,48
+Grid Modernization Initiatives,subtopic,Smart Grids,Smart City,-0.29706015844564876,1.1490341668380515,47
+Smart Home Energy Management,subtopic,Energy Management,Smart City,0.3672717568780127,2.8601786464765886,36
+Sustainable Transportation Networks,subtopic,Sustainable Infrastructure,Smart City,2.1349844389408417,1.045421582701843,46
+Digital Identity Management,subtopic,Digital Governance,Smart City,-1.8911865706154245,-2.1428183864119457,50
+Environmental Monitoring With Iot,subtopic,Iot In Cities,Smart City,0.02534930850984128,-3.809749233654845,42
+Energy-Efficient Building Materials,subtopic,Smart Buildings,Smart City,2.386840763897115,0.3730909908255132,33
+Intelligent Waste Disposal Units,subtopic,Waste Management,Smart City,-1.2532770427165403,0.3851834370523969,46
+Smart Irrigation Systems,subtopic,Water Management,Smart City,0.46698920284941947,2.5692459531068814,31
+Open Data Initiatives For Civic Transparency,subtopic,Civic Engagement,Smart City,0.16631605864722077,-0.19526565848035843,32
+Public Safety Drones,subtopic,Public Safety,Smart City,-1.0493592376563048,-1.1295274649060947,44
+Soil Health Monitoring,subtopic,Environmental Monitoring,Smart City,0.58290350101349,-1.8335553209160862,37
+Demographic Data Analytics,subtopic,Urban Planning Analytics,Smart City,-1.3261550146961618,-2.5396982695241737,40
+Solar-Powered Street Lighting,subtopic,Smart Street Lighting,Smart City,1.4645820808810621,1.2954228068663936,48
+Smart Benches With Charging Stations,subtopic,Urban Green Spaces,Smart City,1.1055770694919977,1.3516678080331552,31
+Online Payment And Transaction Systems,subtopic,E-Government Services,Smart City,-1.6711028046792942,2.298600901274457,31
+Remote Sensing For Air Quality Assessment,subtopic,Air Quality Monitoring,Smart City,0.24999542203519512,0.25502505325000546,41
+Smart Parking Payment Solutions,subtopic,Smart Parking Solutions,Smart City,-0.8948357192345872,-1.799727486057403,40
+Vehicle-To-Everything (V2X) Communication,subtopic,Urban Autonomous Vehicles,Smart City,1.2273793103979207,1.1392851743104235,38
+Multi-Modal Transport Integration,subtopic,Urban Mobility,Smart City,1.3812752098803944,0.42147323260292446,44
+Real-Time Traffic Information Systems,subtopic,Intelligent Transportation Systems,Smart City,1.0571932894374763,-2.4624768223194193,36
+Energy Storage Integration,subtopic,Smart Grids,Smart City,-0.01587156054763056,0.7454314290265138,47
+Real-Time Energy Analytics,subtopic,Energy Management,Smart City,0.600146122570061,2.939147920045573,41
+Intelligent Traffic Management,subtopic,Sustainable Infrastructure,Smart City,2.0064812479808296,1.2190257395177042,37
+Transparent Government Operations,subtopic,Digital Governance,Smart City,-1.748980606236525,-2.1380622573527224,47
+Smart Parking Solutions,subtopic,Iot In Cities,Smart City,0.13607327064130234,-3.7780593113595318,41
+Iot-Enabled Building Automation,subtopic,Smart Buildings,Smart City,2.4588084634218395,0.6596220855376138,50
+Waste-To-Energy Conversion,subtopic,Waste Management,Smart City,-1.2174374197960238,0.5170989210246574,42
+Flood Prediction And Early Warning Systems,subtopic,Water Management,Smart City,0.6401222247076356,2.3795802185330737,37
+Online Voting Platforms,subtopic,Civic Engagement,Smart City,-0.05258179323714891,-0.20826644799441077,50
+Intelligent Traffic Management For Emergency Vehicles,subtopic,Public Safety,Smart City,-1.5013615278709551,-0.6975353680641232,36
+Biodiversity Monitoring,subtopic,Environmental Monitoring,Smart City,0.4851077558367439,-1.6192794616403665,48
+Social And Economic Impact Assessment,subtopic,Urban Planning Analytics,Smart City,-1.649456049985128,-2.2788918784459646,50
+Energy-Efficient Street Light Design,subtopic,Smart Street Lighting,Smart City,1.3870314652492362,0.8035881063568437,32
+Interactive Outdoor Fitness Equipment,subtopic,Urban Green Spaces,Smart City,0.9392285277959898,1.545580338434698,39
+Smart Taxation Systems,subtopic,E-Government Services,Smart City,-1.5781912688708113,2.3482255073878595,32
+Citizen-Engaged Air Quality Data Collection,subtopic,Air Quality Monitoring,Smart City,0.19533542058275516,0.18190722470847598,50
+Dynamic Pricing For Parking Spaces,subtopic,Smart Parking Solutions,Smart City,-1.0030428406761087,-1.5325676024398034,38
+Autonomous Delivery Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,1.2699594248057176,1.2332350407876826,30
+Smart Parking Systems,subtopic,Urban Mobility,Smart City,1.1988613475704384,0.5939345617299217,30
+Roadside Sensor Networks,subtopic,Intelligent Transportation Systems,Smart City,1.3827178961931146,-2.4802102448718033,49
+Smart Grid Cybersecurity,subtopic,Smart Grids,Smart City,-0.39520747501788334,0.9114418885255655,32
+Energy-Efficient Hvac Systems,subtopic,Energy Management,Smart City,0.6933202721110451,3.1858311468398632,50
+Energy-Efficient Street Lighting,subtopic,Sustainable Infrastructure,Smart City,2.2724410466874123,1.0923957163902294,35
+Cybersecurity In Governance,subtopic,Digital Governance,Smart City,-1.8607332474613003,-2.446065049458967,38
+Iot For Traffic Management,subtopic,Iot In Cities,Smart City,-0.18517899390472917,-3.8563183309858626,40
+Intelligent Fire Detection And Prevention,subtopic,Smart Buildings,Smart City,2.078887716466917,0.38718243237940864,37
+Smart Recycling Bins,subtopic,Waste Management,Smart City,-1.016367365540055,1.0312919432227403,50
+Intelligent Stormwater Management,subtopic,Water Management,Smart City,0.8034287035965422,2.4966645181276745,31
+Mobile Apps For Civic Engagement,subtopic,Civic Engagement,Smart City,-0.23511780158959406,-0.372417769800905,43
+Gunshot Detection Systems,subtopic,Public Safety,Smart City,-1.3930549485153483,-0.9623332012983303,33
+Urban Heat Island Monitoring,subtopic,Environmental Monitoring,Smart City,0.14364305171598718,-1.8183830638501333,38
+Gis (Geographic Information System) For Urban Planning,subtopic,Urban Planning Analytics,Smart City,-1.2417514240369028,-2.171053302048453,37
+Smart Street Light Poles With Integrated Sensors,subtopic,Smart Street Lighting,Smart City,1.5329112285958948,0.7371511103587942,43
+Virtual Green Spaces For Indoor Environments,subtopic,Urban Green Spaces,Smart City,1.1324780774248455,1.1377200525888604,36
+E-Voting Platforms,subtopic,E-Government Services,Smart City,-1.5726287895752955,2.142978842973281,42
+Smart Hvac Systems For Indoor Air Quality,subtopic,Air Quality Monitoring,Smart City,-0.13165047164270133,0.0710031710098069,46
+Integration With Navigation Apps,subtopic,Smart Parking Solutions,Smart City,-0.8342075566088452,-1.5652173748891474,42
+Last-Mile Autonomous Transport Solutions,subtopic,Urban Autonomous Vehicles,Smart City,1.3230790330446782,1.0406517978559833,41
+Ride-Sharing Services,subtopic,Urban Mobility,Smart City,1.318270734922192,0.8842897218195314,35
+Vehicle Detection Technologies,subtopic,Intelligent Transportation Systems,Smart City,0.9737451836139487,-2.434485968528562,32
+Renewable Energy Integration,subtopic,Smart Grids,Smart City,-0.1722751444362159,1.097607054509219,30
+Predictive Energy Modeling,subtopic,Energy Management,Smart City,0.6549388607028291,2.961861536079583,37
+Waste-To-Energy Solutions,subtopic,Sustainable Infrastructure,Smart City,2.1932164161445646,1.1202515516877503,47
+Smart Legislation And Regulation,subtopic,Digital Governance,Smart City,-1.9215899930870757,-2.415753862765849,34
+Intelligent Public Transportation,subtopic,Iot In Cities,Smart City,-0.13782687614239345,-3.9627932954414904,35
+Smart Security And Access Control,subtopic,Smart Buildings,Smart City,2.1042720586490997,0.20839070515191682,49
+E-Waste Management Solutions,subtopic,Waste Management,Smart City,-1.300621559827664,0.40660596011073785,40
+Cloud-Based Water Data Platforms,subtopic,Water Management,Smart City,0.5827723810029598,2.548087914902005,38
+Social Media Integration For Citizen Input,subtopic,Civic Engagement,Smart City,-0.21496067558546494,-0.18466132186849274,45
+Wearable Tech For First Responders,subtopic,Public Safety,Smart City,-1.5427801542354536,-1.1742362125006516,41
+Noise Pollution Monitoring,subtopic,Environmental Monitoring,Smart City,0.4449973141445583,-1.4275804577859708,35
+Public Transit Ridership Analytics,subtopic,Urban Planning Analytics,Smart City,-1.4377731315730367,-2.063649068429289,37
+Predictive Maintenance For Street Lights,subtopic,Smart Street Lighting,Smart City,1.15094435587551,1.0074372825035494,34
+Community Gardens With Smart Irrigation,subtopic,Urban Green Spaces,Smart City,0.8810694857597096,1.5692835919425565,33
+Open Data Platforms For Government Transparency,subtopic,E-Government Services,Smart City,-1.3186266105984075,1.988802637185353,50
+Wearable Air Quality Sensors,subtopic,Air Quality Monitoring,Smart City,0.011591230333176467,0.20190640782911684,43
+Parking Reservation Platforms,subtopic,Smart Parking Solutions,Smart City,-1.089926618704352,-1.7765588852204588,47
+Pedestrian Detection And Safety Systems,subtopic,Urban Autonomous Vehicles,Smart City,1.158840680310537,1.1525114145298379,46
+Traffic Congestion Modeling,subtopic,Urban Mobility,Smart City,1.1922959309472183,0.776450635251954,42
+Smart Parking Guidance Systems,subtopic,Intelligent Transportation Systems,Smart City,0.8623822830050054,-2.4952471600360036,47
+Electric Vehicle Charging Infrastructure,subtopic,Smart Grids,Smart City,-0.3593773962079951,0.7623853012601767,45
+Smart Lighting Solutions,subtopic,Energy Management,Smart City,0.4471703379819533,2.808112133406934,50
+Circular Economy Practices,subtopic,Sustainable Infrastructure,Smart City,1.9888737651466195,1.2756891460906248,35
+Data Privacy Policies,subtopic,Digital Governance,Smart City,-2.18082479169268,-2.5501925016263676,39
+Iot In Healthcare For Smart Cities,subtopic,Iot In Cities,Smart City,0.022270664290093792,-3.672904601277482,38
+Indoor Air Quality Monitoring,subtopic,Smart Buildings,Smart City,1.9621580716686664,0.26420234526208863,49
+Hazardous Waste Monitoring,subtopic,Waste Management,Smart City,-1.2598134943065988,0.7989807864639707,47
+Water Conservation Apps For Citizens,subtopic,Water Management,Smart City,0.8266524865260889,2.240059880004504,39
+Virtual Town Halls,subtopic,Civic Engagement,Smart City,-0.21028615171411674,-0.11831958687544612,36
+Video Analytics For Crowd Monitoring,subtopic,Public Safety,Smart City,-1.3662523835104807,-0.7547591641779757,43
+Radiation Monitoring Systems,subtopic,Environmental Monitoring,Smart City,0.3621482126598109,-1.4369431180756416,31
+Accessibility And Connectivity Modeling,subtopic,Urban Planning Analytics,Smart City,-1.5037871271561714,-2.1208782275139137,33
+Connected Street Lighting Networks,subtopic,Smart Street Lighting,Smart City,1.2020151220214843,0.8806491105991788,36
+Mobile Apps For Green Space Navigation,subtopic,Urban Green Spaces,Smart City,0.8576319602281043,0.9511226484304467,36
+Digital Social Services Delivery,subtopic,E-Government Services,Smart City,-1.823216736058375,2.222046837152902,30
+Air Quality Alerts And Notifications,subtopic,Air Quality Monitoring,Smart City,0.16691938725843936,0.36205408557556984,46
+Geofencing For Parking Management,subtopic,Smart Parking Solutions,Smart City,-0.8393828780323501,-1.6212628857131868,36
+Integration With Public Transportation Networks,subtopic,Urban Autonomous Vehicles,Smart City,1.250093068418633,1.099971550128791,35
+Last-Mile Connectivity,subtopic,Urban Mobility,Smart City,1.3056311535269334,0.7439654397676322,32
+Traffic Data Aggregation,subtopic,Intelligent Transportation Systems,Smart City,0.7531485277899561,-2.299704893228553,39
+Intelligent Substation Automation,subtopic,Smart Grids,Smart City,-0.6654124575771359,0.8661162472002486,46
+Renewable Energy Microgrids,subtopic,Energy Management,Smart City,0.7457244133810399,3.2825238688042973,38
+Smart Waste Management,subtopic,Sustainable Infrastructure,Smart City,2.2461051931159717,1.490453690985741,37
+Digital Inclusion Programs,subtopic,Digital Governance,Smart City,-1.951108655714908,-2.3763605588346506,39
+Smart Water Management,subtopic,Iot In Cities,Smart City,0.13664648632917215,-3.707068626499732,38
+Smart Elevators And Escalators,subtopic,Smart Buildings,Smart City,2.2207445133887584,0.18564458647476365,39
+Blockchain For Transparent Waste Transactions,subtopic,Waste Management,Smart City,-1.168925930246914,0.5949678201227466,46
+Remote Sensing For Water Resource Assessment,subtopic,Water Management,Smart City,0.6815855020283987,2.5471991795341187,47
+Gamification Of Civic Participation,subtopic,Civic Engagement,Smart City,0.20453646586173818,-0.3013375826517205,38
+Automated License Plate Recognition (Alpr),subtopic,Public Safety,Smart City,-1.121296863437207,-0.892381162362264,34
+Remote Sensing For Environmental Assessment,subtopic,Environmental Monitoring,Smart City,0.3094467000370096,-1.6313411338816135,47
+Urban Design Optimization,subtopic,Urban Planning Analytics,Smart City,-1.3992380360041408,-2.4111563313754862,43
+Centralized Street Light Control Systems,subtopic,Smart Street Lighting,Smart City,1.0571913206337238,0.8108379603591057,32
+Sustainable Landscaping Practices,subtopic,Urban Green Spaces,Smart City,0.8926766209523166,1.0746693004069223,35
+Digital Birth And Death Certificates,subtopic,E-Government Services,Smart City,-1.5930886720850888,1.9880498151590116,42
+Integration With Traffic Management For Emission Reduction,subtopic,Air Quality Monitoring,Smart City,-0.07043743097018565,-0.12915162360122123,49
+License Plate Recognition For Parking Access,subtopic,Smart Parking Solutions,Smart City,-1.028348416607706,-1.775653585286484,36
+Smart Parking Solutions For Autonomous Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,1.543252818177209,1.2154618367292824,46
+Smart Highways,subtopic,Urban Mobility,Smart City,1.123501614772704,0.5744302288016087,34
+Automated Toll Collection Systems,subtopic,Intelligent Transportation Systems,Smart City,1.0938673255032774,-2.444348224112568,30
+Wide Area Monitoring Systems (Wams),subtopic,Smart Grids,Smart City,-0.428478740226132,1.255100135622238,49
+Energy Storage Optimization,subtopic,Energy Management,Smart City,0.38620459194865236,3.294320165196991,45
+Resilient And Adaptable Infrastructure,subtopic,Sustainable Infrastructure,Smart City,1.7669001984314987,1.2102269059086432,35
+Smart City Command Centers,subtopic,Digital Governance,Smart City,-1.912657610961462,-2.420256469216679,37
+Iot-Based Air Quality Monitoring,subtopic,Iot In Cities,Smart City,0.048272666776329076,-3.8637830538756006,30
+Predictive Maintenance For Building Systems,subtopic,Smart Buildings,Smart City,2.261320186587451,0.2641531741052118,49
+Real-Time Monitoring Of Landfills,subtopic,Waste Management,Smart City,-1.4298694111647663,0.5210712569633942,30
+Smart Wastewater Treatment Plants,subtopic,Water Management,Smart City,0.5496425813249656,2.1260480379210334,41
+Civic Education Programs,subtopic,Civic Engagement,Smart City,-0.14009898418799938,-0.050763371843191823,47
+Smart Fire Detection And Prevention,subtopic,Public Safety,Smart City,-1.476454914878415,-0.885051558950465,49
+Gis (Geographic Information System) For Environmental Mapping,subtopic,Environmental Monitoring,Smart City,0.6274093165250906,-1.7468206303088185,39
+Environmental Impact Analysis,subtopic,Urban Planning Analytics,Smart City,-1.3863654759672688,-2.1792065005383456,35
+Dynamic Street Light Scheduling,subtopic,Smart Street Lighting,Smart City,1.588709756181208,0.7691115355057081,33
+Biodiversity Data Collection In Urban Areas,subtopic,Urban Green Spaces,Smart City,0.7868375926759754,1.3057641397634665,49
+Electronic Permitting And Licensing,subtopic,E-Government Services,Smart City,-1.6337592834005263,2.3120308781830032,49
+Atmospheric Dispersion Modeling,subtopic,Air Quality Monitoring,Smart City,-0.16440589662281382,-0.05118506596215121,42
+Smart Parking Meters,subtopic,Smart Parking Solutions,Smart City,-1.3886932826702658,-1.4814180836993074,46
+Autonomous Freight Transport,subtopic,Urban Autonomous Vehicles,Smart City,1.4977358289503468,1.191292526182543,47
+Connected Vehicle Technologies,subtopic,Urban Mobility,Smart City,1.4692951541250783,0.47217037013269014,39
+Electronic Road Pricing,subtopic,Intelligent Transportation Systems,Smart City,1.3302091873748878,-2.534049484792241,50
+Fault Detection And Localization,subtopic,Smart Grids,Smart City,-0.640513116817273,1.1980642634697207,37
+Virtual Power Plants (Vpps),subtopic,Energy Management,Smart City,0.6595943139233026,2.919053251349242,31
+Sustainable Urban Planning,subtopic,Sustainable Infrastructure,Smart City,2.415069971777709,1.3680459512293495,46
+Cloud Computing For Governance,subtopic,Digital Governance,Smart City,-1.9672319709126829,-2.4420043142581602,38
+Asset Tracking And Management,subtopic,Iot In Cities,Smart City,0.24348252406776694,-4.06461416427145,40
+Building Information Modeling (Bim),subtopic,Smart Buildings,Smart City,2.2962789591051327,0.29988495636708246,32
+Smart Composting Systems,subtopic,Waste Management,Smart City,-1.431002791073333,0.47801342951984716,38
+Sensor Networks For River And Lake Monitoring,subtopic,Water Management,Smart City,0.43881581662575253,2.475584044872298,34
+Public Consultation Forums,subtopic,Civic Engagement,Smart City,0.18399509778360978,-0.13047371640405353,47
+Community Policing Apps,subtopic,Public Safety,Smart City,-1.3891089396336582,-0.7710196363226984,31
+Smart Grids For Energy Efficiency And Emission Reduction,subtopic,Environmental Monitoring,Smart City,0.38454983565581785,-1.6260159252739397,33
+Real-Time Construction Project Analytics,subtopic,Urban Planning Analytics,Smart City,-1.3886289840221315,-2.284766300993256,45
+Smart Street Lighting For Public Safety,subtopic,Smart Street Lighting,Smart City,1.144613041062645,0.4787146471783887,43
+Smart Lighting For Green Spaces,subtopic,Urban Green Spaces,Smart City,0.8751020133303535,1.4103321646325675,37
+Real-Time Government Alerts And Notifications,subtopic,E-Government Services,Smart City,-1.724133401675408,2.252466553653004,39
+Air Quality Prediction Models,subtopic,Air Quality Monitoring,Smart City,-0.05732292142992153,0.02058710373650349,45
+Integration With Public Transportation Systems,subtopic,Smart Parking Solutions,Smart City,-0.9070435715411148,-1.1995174850533685,46
+Connected And Cooperative Autonomous Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,1.284936026052366,1.1583505501020084,47
+Mobility As A Service (Maas),subtopic,Urban Mobility,Smart City,1.0118540145159376,0.7734196188451399,38
+Variable Message Signs,subtopic,Intelligent Transportation Systems,Smart City,1.019072948022903,-2.5460362820765314,47
+Voltage And Reactive Power Control,subtopic,Smart Grids,Smart City,-0.3251832195122711,1.166336656735349,38
+Smart Metering For Energy Efficiency,subtopic,Energy Management,Smart City,0.5783456252376573,2.9221985088583153,40
+Climate-Responsive Architecture,subtopic,Sustainable Infrastructure,Smart City,2.305101048650119,1.2120503034832963,32
+Mobile Government Services,subtopic,Digital Governance,Smart City,-1.9234331982872184,-2.545504062324205,44
+Smart Grids And Iot Integration,subtopic,Iot In Cities,Smart City,0.19819109624402798,-3.8394255072371846,40
+Renewable Energy Integration In Buildings,subtopic,Smart Buildings,Smart City,2.3236728886090705,0.4664515184559308,43
+Municipal Solid Waste (Msw) Analytics,subtopic,Waste Management,Smart City,-1.0832957930797675,0.5832318308280796,49
+Water Recycling And Reuse Technologies,subtopic,Water Management,Smart City,0.7701908828609163,2.3232277857663006,31
+Collaborative Budgeting Tools,subtopic,Civic Engagement,Smart City,-0.2657885866240914,-0.5606666572401948,48
+Biometric Identification Systems,subtopic,Public Safety,Smart City,-1.419245038975929,-0.8940399265661202,30
+Greenhouse Gas Monitoring,subtopic,Environmental Monitoring,Smart City,0.1338137065243984,-1.668590756832433,45
+Parking Demand And Supply Analytics,subtopic,Urban Planning Analytics,Smart City,-1.416397715125875,-1.8679625969756122,50
+Environmental Sensors On Street Lights,subtopic,Smart Street Lighting,Smart City,1.4486050597699502,0.876142951971128,48
+Smart Waste Management In Parks,subtopic,Urban Green Spaces,Smart City,0.7679536193371932,1.0984788881993692,30
+Government Chatbots For Citizen Assistance,subtopic,E-Government Services,Smart City,-2.0348649064123734,2.2615357001026974,50
+Smart Urban Planning For Improved Air Quality,subtopic,Air Quality Monitoring,Smart City,0.17761447648908835,0.14274798337236053,46
+Augmented Reality Parking Assistance,subtopic,Smart Parking Solutions,Smart City,-0.8211332952315397,-1.6803085241236118,44
+Infrastructure Readiness For Autonomous Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,1.2690148580437253,1.3046866953718905,43
+Accessibility For Persons With Disabilities,subtopic,Urban Mobility,Smart City,1.2319738443148864,0.5414046333255994,36
+Intelligent Road Infrastructure,subtopic,Intelligent Transportation Systems,Smart City,1.0525102058234004,-2.299712631976046,45
+Grid Resilience Planning,subtopic,Smart Grids,Smart City,-0.5034578006180546,1.3162962217528797,46
+Distributed Energy Resources (Der) Management,subtopic,Energy Management,Smart City,0.3189479644201331,2.945696089949531,42
+Urban Heat Island Mitigation,subtopic,Sustainable Infrastructure,Smart City,2.097889823680264,1.036507362407354,31
+Blockchain In Public Administration,subtopic,Digital Governance,Smart City,-1.7565615204457126,-2.302411249493492,37
+Iot In Energy Conservation,subtopic,Iot In Cities,Smart City,-0.08097357090610138,-4.140907896042496,45
+Smart Windows And Shading Systems,subtopic,Smart Buildings,Smart City,2.080465456873083,0.7481114364277648,47
+Reverse Vending Machines For Recycling,subtopic,Waste Management,Smart City,-1.3744955339345288,0.28782296256742623,42
+Water Scarcity Prediction Models,subtopic,Water Management,Smart City,0.588903358425235,2.7413417316135464,38
+Hackathons For Civic Innovation,subtopic,Civic Engagement,Smart City,-0.40219284567673436,0.16065136109243597,49
+Cybersecurity For Public Safety Systems,subtopic,Public Safety,Smart City,-1.356066055407533,-0.9573150652338821,34
+Wildlife Tracking With Iot,subtopic,Environmental Monitoring,Smart City,0.1552478878198254,-1.5781586247833945,38
+Housing Affordability Analysis,subtopic,Urban Planning Analytics,Smart City,-1.4876157129866794,-2.24151429052995,46
+Wireless Communication For Street Light Coordination,subtopic,Smart Street Lighting,Smart City,1.3543837821629612,0.9230821401041207,45
+Augmented Reality Nature Trails,subtopic,Urban Green Spaces,Smart City,0.9771460708121806,1.3881288210713612,49
+Online Public Consultations,subtopic,E-Government Services,Smart City,-1.891364286828615,2.2838067046864152,42
+Public Awareness Campaigns On Air Pollution,subtopic,Air Quality Monitoring,Smart City,-0.041089063663460657,0.22869930394492843,42
+Connected Vehicles For Smart Parking,subtopic,Smart Parking Solutions,Smart City,-1.0034436105940983,-1.5947641196803701,41
+Fleet Management For Urban Autonomous Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,1.2243775863757629,1.1853924245171554,41
+Carpooling Platforms,subtopic,Urban Mobility,Smart City,1.2690680231509577,0.3104424893678775,34
+Traffic Flow Optimization Algorithms,subtopic,Intelligent Transportation Systems,Smart City,1.0229611467921647,-2.4190943697591916,48
+Grid Edge Technologies,subtopic,Smart Grids,Smart City,-0.6435231834403864,1.0405910011255297,46
+Energy Audit And Benchmarking,subtopic,Energy Management,Smart City,0.19639590586061356,2.92978179640186,44
+Green Roofs And Walls,subtopic,Sustainable Infrastructure,Smart City,2.1196527430582477,1.359937651128667,45
+Intelligent Document Management,subtopic,Digital Governance,Smart City,-1.9538002688755784,-2.6666085672703526,30
+Connected Street Furniture,subtopic,Iot In Cities,Smart City,-0.011469730715945703,-4.023441797601397,35
+Integrated Building Communication Systems,subtopic,Smart Buildings,Smart City,2.5533533117925615,0.4322538568430059,46
+Waste Segregation At Source,subtopic,Waste Management,Smart City,-1.34882277391603,0.7504713924184342,30
+Intelligent Water Pumping Stations,subtopic,Water Management,Smart City,0.5312477108586675,2.539695149568668,39
+Citizen Science Initiatives,subtopic,Civic Engagement,Smart City,-0.23300554550454847,-0.14939804293332407,30
+Public Health Emergency Preparedness,subtopic,Public Safety,Smart City,-1.3291083581165177,-0.8570963654806901,45
+Smart Agriculture Practices For Environmental Conservation,subtopic,Environmental Monitoring,Smart City,0.113136461454451,-1.7039819053908254,44
+Retail And Commercial Space Optimization,subtopic,Urban Planning Analytics,Smart City,-1.647837043177685,-2.1830356376046294,31
+Automated Fault Detection In Street Lights,subtopic,Smart Street Lighting,Smart City,1.3996921706038181,0.8171545002140176,47
+Urban Tree Canopy Monitoring,subtopic,Urban Green Spaces,Smart City,0.7136419757583504,1.4161396999955718,43
+Smart Public Safety Reporting Apps,subtopic,E-Government Services,Smart City,-1.6476415017295962,2.3102013278865647,33
+Air Quality Analytics And Reporting,subtopic,Air Quality Monitoring,Smart City,-0.015585806988095183,0.14435053463104783,47
+Automated Valet Parking,subtopic,Smart Parking Solutions,Smart City,-1.0487599344614895,-1.4510721845702115,32
+Autonomous Vehicle Charging Infrastructure,subtopic,Urban Autonomous Vehicles,Smart City,1.33008139707042,1.1421994017191153,30
+Real-Time Transportation Updates,subtopic,Urban Mobility,Smart City,1.424029146472183,0.32376994353993066,41
+Automated License Plate Recognition (Alpr),subtopic,Intelligent Transportation Systems,Smart City,1.0796765174122362,-2.570118093029877,30
+Smart Sensors For Grid Monitoring,subtopic,Smart Grids,Smart City,-0.496964980708023,0.6860699098501704,46
+Intelligent Load Shedding,subtopic,Energy Management,Smart City,1.0561569211541117,2.9224659607939985,46
+Efficient Public Transportation,subtopic,Sustainable Infrastructure,Smart City,2.1535499617360117,1.2504372234440189,32
+Online Service Delivery,subtopic,Digital Governance,Smart City,-1.7226593500458862,-2.613362574965807,31
+Iot For Disaster Management,subtopic,Iot In Cities,Smart City,-0.021777476727823875,-3.8259980941988725,46
+Emergency Evacuation Systems,subtopic,Smart Buildings,Smart City,2.2292385219136484,0.04969258363296142,38
+Gps-Enabled Waste Collection Routes,subtopic,Waste Management,Smart City,-1.43792138521468,0.72968435798254,33
+Blockchain For Transparent Water Transactions,subtopic,Water Management,Smart City,0.6581272052448928,2.269965615247596,30
+Neighborhood Watch Apps,subtopic,Civic Engagement,Smart City,0.03463676651150589,-0.26004873171414344,46
+Smart Helmets For Police With Ar Capabilities,subtopic,Public Safety,Smart City,-1.3196956587240674,-0.890146652971634,39
+Environmental Impact Assessment Tools,subtopic,Environmental Monitoring,Smart City,0.3721345288123522,-1.5901416318325579,36
+Community Engagement Analytics,subtopic,Urban Planning Analytics,Smart City,-1.2451316706291844,-2.0081337269533255,31
+Real-Time Energy Consumption Monitoring,subtopic,Smart Street Lighting,Smart City,1.0038450100706853,0.9246662900372793,40
+Citizen Engagement Platforms For Park Planning,subtopic,Urban Green Spaces,Smart City,0.7597653426043117,0.9808093858808274,49
+Cloud-Based Government Data Storage,subtopic,E-Government Services,Smart City,-1.8369870017872525,1.9804355145564205,46
+Sensor-Equipped Public Transportation For Air Quality Monitoring,subtopic,Air Quality Monitoring,Smart City,-0.09208295582338291,-0.1075491046241409,31
+Parking Space Detection Cameras,subtopic,Smart Parking Solutions,Smart City,-1.2248424002430405,-1.3391120702468533,42
+Regulations And Policies For Urban Autonomous Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,1.1247098648476441,0.933463839157735,36
+Smart Toll Collection,subtopic,Urban Mobility,Smart City,1.2386137961511943,0.622725622337174,41
+Dynamic Lane Management,subtopic,Intelligent Transportation Systems,Smart City,1.0264529791535864,-2.562853185086673,43
+Grid Data Analytics,subtopic,Smart Grids,Smart City,-0.20259285217060735,0.9524159865327491,40
+Sustainable Urban Planning For Energy,subtopic,Energy Management,Smart City,0.6156047421077309,2.9188500035611016,48
+Integrated Public And Active Transportation,subtopic,Sustainable Infrastructure,Smart City,1.987849648886518,1.0067761837465383,49
+Smart Procurement Systems,subtopic,Digital Governance,Smart City,-1.782282971991024,-2.5558290550176292,48
+Smart Irrigation Systems,subtopic,Iot In Cities,Smart City,0.33021677053797116,-3.952201540541454,35
+Water Conservation In Buildings,subtopic,Smart Buildings,Smart City,2.3061150700710877,0.37705805127052167,39
+Smart Fleet Management For Waste Trucks,subtopic,Waste Management,Smart City,-1.1363596738266681,0.7021321338755644,30
+Aquifer Recharge Management,subtopic,Water Management,Smart City,0.6174589459987398,2.348062925174278,44
+Civic Crowdfunding Platforms,subtopic,Civic Engagement,Smart City,-0.12541184850195575,-0.3588340986924691,43
+Social Media Monitoring For Safety,subtopic,Public Safety,Smart City,-1.4698250299043383,-1.1178964229951882,33
+Coastal And Marine Environment Monitoring,subtopic,Environmental Monitoring,Smart City,0.4962141595761071,-1.848040487933357,44
+Public Health Analytics In Urban Planning,subtopic,Urban Planning Analytics,Smart City,-1.3819612003544073,-2.3664269010159686,38
+Integration With Traffic Management Systems,subtopic,Smart Street Lighting,Smart City,1.4004862989486249,0.4161881060932295,46
+Green Space Microclimates Monitoring,subtopic,Urban Green Spaces,Smart City,0.9750158784902425,1.1719218363172368,30
+E-Government Service Dashboards,subtopic,E-Government Services,Smart City,-1.6779017424573954,2.1250905876344173,37
+Air Quality Index (Aqi) Visualization Platforms,subtopic,Air Quality Monitoring,Smart City,0.3404129717942985,-0.2687356765407971,44
+Cloud-Based Parking Analytics,subtopic,Smart Parking Solutions,Smart City,-0.9253001765471736,-1.4791027707229656,39
+Real-Time Traffic Flow Optimization For Autonomy,subtopic,Urban Autonomous Vehicles,Smart City,1.235828052479428,1.1492396100083868,33
+Hyperloop Technology,subtopic,Urban Mobility,Smart City,1.3608294168825954,0.5657828500154439,45
+Emergency Vehicle Priority Systems,subtopic,Intelligent Transportation Systems,Smart City,0.7151696261882182,-2.905850024924474,48
+Distributed Energy Resources (Der) Management,subtopic,Smart Grids,Smart City,-0.3559188845113458,0.7784210525035118,37
+Energy-Efficient Transportation Systems,subtopic,Energy Management,Smart City,0.6024682186205828,2.9470834452893073,38
+Stormwater Harvesting Systems,subtopic,Sustainable Infrastructure,Smart City,1.995780667010134,1.1875454319318075,38
+Geospatial Information Systems (Gis) For Governance,subtopic,Digital Governance,Smart City,-2.2880961944411324,-2.388239799820606,48
+Industrial Iot (Iiot) For Smart Manufacturing,subtopic,Iot In Cities,Smart City,0.16392704329010643,-3.867442236914256,30
+Smart Parking Solutions For Buildings,subtopic,Smart Buildings,Smart City,2.3278609942492396,0.7047889763848019,47
+Citizen Engagement Platforms For Waste Reduction,subtopic,Waste Management,Smart City,-0.9971814493433462,0.28483493443584906,44
+Gis (Geographic Information System) For Water Mapping,subtopic,Water Management,Smart City,0.7384409270351041,2.2702201951600194,37
+Smart City Dashboards For Citizens,subtopic,Civic Engagement,Smart City,-0.06624922842554071,-0.18458403061771597,42
+Safe City Command Centers,subtopic,Public Safety,Smart City,-1.4163413819674,-0.7802390605961905,42
+Sustainable Urban Planning For Environmental Preservation,subtopic,Environmental Monitoring,Smart City,0.5782580185860441,-1.5140630903904966,49
+Smart Zoning And Regulations,subtopic,Urban Planning Analytics,Smart City,-1.6142248036732976,-2.2543934183521364,39
+Intelligent Crosswalk Lighting,subtopic,Smart Street Lighting,Smart City,1.378593206323007,0.5005932148617205,35
+Iot-Enabled Plant Health Monitoring,subtopic,Urban Green Spaces,Smart City,0.858099860026834,1.2459659733608544,50
+Government Social Media Engagement,subtopic,E-Government Services,Smart City,-1.488550713212541,2.34550523054454,40
+Green Infrastructure For Air Pollution Mitigation,subtopic,Air Quality Monitoring,Smart City,0.07467511554047714,0.1316060373255148,49
+Integration With Electric Vehicle Charging Stations,subtopic,Smart Parking Solutions,Smart City,-0.960622808113008,-1.5576518898172378,42
+Urban Planning For Autonomous Vehicle Routes,subtopic,Urban Autonomous Vehicles,Smart City,1.281059901677831,1.1885882477295748,40
+Electric Vehicle Infrastructure,subtopic,Urban Mobility,Smart City,1.188715801266939,0.27438039937366365,39
+Predictive Traffic Modeling,subtopic,Intelligent Transportation Systems,Smart City,0.9441659704598929,-2.6018821818839504,38
+Transactive Energy Systems,subtopic,Smart Grids,Smart City,-0.1417373033827391,1.0270171969706459,32
+Green Building Standards,subtopic,Energy Management,Smart City,0.685482033318694,2.81928424860844,37
+Eco-District Development,subtopic,Sustainable Infrastructure,Smart City,2.0448548866753056,1.1720948728016949,39
+Civic Tech Innovation,subtopic,Digital Governance,Smart City,-2.02619690429359,-2.4191405570649485,50
+Iot In Retail For Smart Shopping,subtopic,Iot In Cities,Smart City,0.14396053885859766,-3.716401423087637,46
+Sustainable Building Design,subtopic,Smart Buildings,Smart City,2.2927460380582656,0.43397611981713125,40
+Circular Economy Practices In Waste Management,subtopic,Waste Management,Smart City,-1.4366613555243117,0.36700788364400727,32
+Real-Time Monitoring Of Reservoir Levels,subtopic,Water Management,Smart City,0.7636401108713108,2.5969718445084706,47
+Digital Civic Literacy Campaigns,subtopic,Civic Engagement,Smart City,-0.06381818428254286,-0.1992237313850628,31
+Flood And Natural Disaster Early Warning Systems,subtopic,Public Safety,Smart City,-1.2554270751048804,-1.0468259460103029,46
+Real-Time Monitoring Of Deforestation,subtopic,Environmental Monitoring,Smart City,0.4726359836554951,-1.7937378820062424,35
+Green Space Allocation Optimization,subtopic,Urban Planning Analytics,Smart City,-1.2967729668581987,-2.1324142454873347,33
+Adaptive Street Lighting For Events,subtopic,Smart Street Lighting,Smart City,1.2099435468783217,0.7235676739799805,30
+Smart Urban Forestry Planning,subtopic,Urban Green Spaces,Smart City,1.0883657666117759,1.4070944154100944,36
+Digital Records Management,subtopic,E-Government Services,Smart City,-1.6954580269078383,2.1383416649610436,47
+Smart Construction Site Management For Dust Control,subtopic,Air Quality Monitoring,Smart City,-0.18431846192577725,-0.13814268892231799,38
+Smart Parking Enforcement Solutions,subtopic,Smart Parking Solutions,Smart City,-1.1309206670794207,-1.7799537527465257,30
+Ride-Sharing Pools With Autonomous Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,1.1850932382081119,0.9577429253723374,34
+Traffic Data Analytics,subtopic,Urban Mobility,Smart City,1.1630759115999059,0.24046569524933642,42
+Traveler Information Systems,subtopic,Intelligent Transportation Systems,Smart City,1.0214929085415054,-2.5670727123094936,34
+Grid Optimization Algorithms,subtopic,Smart Grids,Smart City,-0.422583192845637,1.2879862713601196,30
+Smart Charging Infrastructure For Electric Vehicles,subtopic,Energy Management,Smart City,0.5747568213606533,2.841718058590304,49
+Renewable Energy Integration In Infrastructure,subtopic,Sustainable Infrastructure,Smart City,2.1353720680795063,1.1286700873731217,31
+Collaborative Decision-Making Platforms,subtopic,Digital Governance,Smart City,-2.279855408640337,-2.2582666897106485,40
+Smart Home Automation,subtopic,Iot In Cities,Smart City,0.09815422905997379,-3.6691039861808683,44
+Advanced Building Analytics,subtopic,Smart Buildings,Smart City,2.1473622160205412,0.555774197188605,40
+Sustainable Packaging Solutions,subtopic,Waste Management,Smart City,-1.522528472258956,0.7353490082763982,35
+Data-Driven Water Policy Planning,subtopic,Water Management,Smart City,0.8929753701438703,2.437400362242212,33
+Community-Based Social Networks,subtopic,Civic Engagement,Smart City,0.012502801094309526,0.17865419380349787,47
+Smart Infrastructure Resilience Planning,subtopic,Public Safety,Smart City,-1.3500022045305686,-0.9434775348487353,41
+Digital Twins For Environmental Simulation,subtopic,Environmental Monitoring,Smart City,0.08812734654157589,-1.6222030137875698,41
+Disaster Resilience Planning Analytics,subtopic,Urban Planning Analytics,Smart City,-1.7549819120179693,-2.42548850687845,42
+Street Light Data Analytics,subtopic,Smart Street Lighting,Smart City,1.749643030376009,0.6603181602922663,45
+Green Space Accessibility For Persons With Disabilities,subtopic,Urban Green Spaces,Smart City,0.9828680210048245,1.4434531765279601,33
+Smart City Command Centers For Government Coordination,subtopic,E-Government Services,Smart City,-1.79122940973441,2.3532795755128006,40
+Vehicle Emission Monitoring And Control,subtopic,Air Quality Monitoring,Smart City,-0.35609635999955336,0.20137683548310867,48
+Iot-Based Parking Infrastructure Planning,subtopic,Smart Parking Solutions,Smart City,-1.2986857637865779,-1.742299685816908,40
+Autonomous Vehicle Data Security And Privacy,subtopic,Urban Autonomous Vehicles,Smart City,1.4586977317482315,1.4820377837025895,47
+Dynamic Route Planning,subtopic,Urban Mobility,Smart City,1.1819881809693475,0.6135643269090449,33
+Traffic Management Centers,subtopic,Intelligent Transportation Systems,Smart City,1.0460209073649844,-2.8863211040585033,49
+Smart Grid Communication Networks,subtopic,Smart Grids,Smart City,-0.16707451339973559,1.2488097072932889,37
+Thermal Energy Storage Solutions,subtopic,Energy Management,Smart City,0.7607380023822513,3.147752261432683,40
+Smart Grids For Infrastructure,subtopic,Sustainable Infrastructure,Smart City,1.8602414745347655,0.8477899569410816,45
+Social Media Integration For Governance,subtopic,Digital Governance,Smart City,-2.3430545807515832,-2.2948622710154774,45
+Iot-Enabled Public Safety,subtopic,Iot In Cities,Smart City,-0.006144202562778006,-3.6770649148312935,31
+Remote Monitoring And Control Of Building Systems,subtopic,Smart Buildings,Smart City,2.2936214011142355,0.4410718632463322,43
+Community-Based Waste Cleanup Initiatives,subtopic,Waste Management,Smart City,-1.2959373691199831,0.6830165535289405,47
+Smart Water Billing And Payment Systems,subtopic,Water Management,Smart City,0.4152910312426258,2.2005918372093336,33
+Interactive Public Art Installations,subtopic,Civic Engagement,Smart City,-0.36842155145371147,-0.017708946684290933,43
+Autonomous Vehicles For Emergency Response,subtopic,Public Safety,Smart City,-1.535846000546303,-1.0694202226323923,38
+River And Lake Health Monitoring,subtopic,Environmental Monitoring,Smart City,0.6847422454960521,-1.6248283712158595,42
+Historical Urban Development Analysis,subtopic,Urban Planning Analytics,Smart City,-1.4012769044595186,-1.9872870461351735,50
+Smart Street Lighting For Urban Beautification,subtopic,Smart Street Lighting,Smart City,1.0867922694241092,0.9480660458981738,43
+Urban Agriculture Initiatives,subtopic,Urban Green Spaces,Smart City,0.8196301977225311,1.3032066791132493,30
+E-Health Services And Telemedicine,subtopic,E-Government Services,Smart City,-1.5021062611692284,2.1934559151120463,40
+Real-Time Monitoring Of Industrial Emissions,subtopic,Air Quality Monitoring,Smart City,0.18697478167127424,-0.1278021808091093,40
+Real-Time Traffic Flow Optimization,subtopic,Smart Parking Solutions,Smart City,-0.641268157711474,-1.6539305662084822,38
+Multi-Modal Transportation Integration,subtopic,Urban Autonomous Vehicles,Smart City,1.291705095120515,0.9141011293981317,44
+Traffic Incident Management,subtopic,Urban Mobility,Smart City,1.2894352983721595,0.6370971947444521,46
+Intelligent Pedestrian Crosswalks,subtopic,Intelligent Transportation Systems,Smart City,1.074352241591946,-2.7428615021320764,46
+Grid-Connected Energy Storage,subtopic,Smart Grids,Smart City,0.03268264896721934,1.1380973204560068,48
+Energy-Efficient Industrial Processes,subtopic,Energy Management,Smart City,0.696314071396422,3.230074328480174,31
+Smart Parking Solutions,subtopic,Sustainable Infrastructure,Smart City,1.9680589236672534,1.0918129413236004,45
+Government Analytics,subtopic,Digital Governance,Smart City,-2.023483607582183,-2.3003855253383096,32
+Wearable Iot Devices For Citizens,subtopic,Iot In Cities,Smart City,0.06913316779441019,-3.8341228731355823,49
+Sensor Networks For Building Health,subtopic,Smart Buildings,Smart City,2.3236549794580355,0.5660535443209527,32
+Data-Driven Waste Management Policies,subtopic,Waste Management,Smart City,-1.1820737595795,0.44863118486929165,31
+Citizen Engagement In Water Conservation,subtopic,Water Management,Smart City,0.7983118156906979,2.437675719156613,32
+Augmented Reality For Civic Awareness,subtopic,Civic Engagement,Smart City,-0.1921253931061054,-0.24575274248616313,41
+Gun Violence Prediction Models,subtopic,Public Safety,Smart City,-1.4033639393942239,-0.9069581885272202,46
+Smart Pest Control With Minimal Environmental Impact,subtopic,Environmental Monitoring,Smart City,0.6067002850125562,-1.7482242328881035,45
+Cultural Heritage Preservation Analytics,subtopic,Urban Planning Analytics,Smart City,-1.5914571026850362,-2.1634044480234094,43
+Weather-Responsive Street Light Control,subtopic,Smart Street Lighting,Smart City,1.394707916307316,1.0879326805991831,35
+Pollinator-Friendly Green Space Designs,subtopic,Urban Green Spaces,Smart City,0.7300048653119803,0.9511835945553222,46
+Digital Educational Services,subtopic,E-Government Services,Smart City,-1.6520299897996604,2.308662305775759,43
+Integration With Health Systems For Air Quality-Health Linkage,subtopic,Air Quality Monitoring,Smart City,0.10518893712188107,-0.36817549979857594,38
+Parking Space Utilization Data,subtopic,Smart Parking Solutions,Smart City,-1.0638376770488271,-1.8449602146177893,45
+Emergency Response For Autonomous Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,0.7813520320780418,1.140834649948213,48
+Smart Commuting Apps,subtopic,Urban Mobility,Smart City,1.3389404616232372,0.5348091466972166,46
+Smart Bus Rapid Transit (Brt) Systems,subtopic,Intelligent Transportation Systems,Smart City,1.1408666527659252,-2.3760197720638523,40
+Grid Asset Management,subtopic,Smart Grids,Smart City,-0.055418300733730996,1.338692591495334,47
+Blockchain For Energy Transactions,subtopic,Energy Management,Smart City,0.2191960954873881,2.896269870939877,47
+Sustainable Materials Recycling,subtopic,Sustainable Infrastructure,Smart City,2.235951148427411,1.4056923466388398,42
+E-Voting Systems,subtopic,Digital Governance,Smart City,-2.0780359118823135,-2.8016944059315603,49
+Real-Time Weather Monitoring With Iot,subtopic,Iot In Cities,Smart City,0.10628944155531544,-3.7688010491197903,48
+Intelligent Waste Management In Buildings,subtopic,Smart Buildings,Smart City,2.1045716979719495,0.33846255323976593,50
+Waste Reduction Campaigns,subtopic,Waste Management,Smart City,-1.208870296066448,0.8054792914147383,48
+Sustainable Urban Planning For Water,subtopic,Water Management,Smart City,0.3836182342021597,2.668407394395191,32
+Iot-Enabled Citizen Feedback Devices,subtopic,Civic Engagement,Smart City,-0.17237299899682051,-0.20695956232307045,33
+Ai-Powered Emergency Dispatch Systems,subtopic,Public Safety,Smart City,-1.3881814226056606,-0.9198550294110133,34
+Environmental Data Analytics,subtopic,Environmental Monitoring,Smart City,0.41508717426284925,-1.7855351723442943,40
+Smart Growth And Sustainable Development Analytics,subtopic,Urban Planning Analytics,Smart City,-1.4625309202490262,-2.0045322235825784,30
+Collaborative Street Lighting Design,subtopic,Smart Street Lighting,Smart City,1.4301962094846579,1.0369350839579745,35
+Social Inclusion Programs In Green Spaces,subtopic,Urban Green Spaces,Smart City,0.5661157073252985,1.286630457613115,30
+E-Justice Systems,subtopic,E-Government Services,Smart City,-1.963960911483073,2.447626966574719,39
+Urban Forestry Strategies For Air Quality Improvement,subtopic,Air Quality Monitoring,Smart City,0.0225341343230857,-0.08401827765332218,31
+Intelligent Parking Garage Management,subtopic,Smart Parking Solutions,Smart City,-0.9687150129233664,-1.5551161808488736,46
+User Experience In Autonomous Vehicles,subtopic,Urban Autonomous Vehicles,Smart City,1.2379736817076639,1.1168423114100379,40
+Autonomous Public Transport,subtopic,Urban Mobility,Smart City,1.4943478778163333,0.5389081065708258,38
+Traffic Signal Coordination,subtopic,Intelligent Transportation Systems,Smart City,1.1018270596159958,-2.4396763129975287,37
+Energy Market Integration,subtopic,Smart Grids,Smart City,-0.29117936378638276,0.835368381414533,36
+Energy Harvesting Technologies,subtopic,Energy Management,Smart City,0.7712559167003054,2.7713113247140106,34
+Smart Infrastructure Monitoring,subtopic,Sustainable Infrastructure,Smart City,1.8363549354755526,0.9538821849506449,38
+Smart Contracts For Governance,subtopic,Digital Governance,Smart City,-1.820812649519672,-2.456444476489566,50
+Iot In Education For Smart Learning,subtopic,Iot In Cities,Smart City,0.3270658781837028,-3.703538502308997,31
+Smart Appliances And Equipment,subtopic,Smart Buildings,Smart City,2.16995628015813,0.4839844837780046,47
+Public Awareness Programs On Responsible Disposal,subtopic,Waste Management,Smart City,-1.2488861414104655,0.6252920437993422,50
+Desalination Technologies,subtopic,Water Management,Smart City,0.42419297058503147,2.7301658233566433,43
+Geospatial Tools For Community Mapping,subtopic,Civic Engagement,Smart City,-0.25434741661027094,-0.42931820069046894,47
+Location-Based Emergency Alerts,subtopic,Public Safety,Smart City,-1.5050704212629378,-0.9917148337948083,45
+Climate Change Adaptation Monitoring,subtopic,Environmental Monitoring,Smart City,0.6772832686309186,-1.8397662512657678,45
+Crime Pattern Analysis For Safer Urban Planning,subtopic,Urban Planning Analytics,Smart City,-1.5332809131190022,-2.3364621613112195,36
+Emergency Response Integration With Street Lights,subtopic,Smart Street Lighting,Smart City,1.1100007142155364,0.5130011083791719,44
+Public Art Installations In Parks,subtopic,Urban Green Spaces,Smart City,1.0060979322515622,1.3931101839464348,31
+E-Commerce Platforms For Government Procurement,subtopic,E-Government Services,Smart City,-1.5817697335020657,2.686567015821729,45
+Smart Waste Management For Air Quality Preservation,subtopic,Air Quality Monitoring,Smart City,-0.0070854969024638365,-0.0690585989955269,35
+Mobile Alerts For Expiring Parking Sessions,subtopic,Smart Parking Solutions,Smart City,-1.1509440400401967,-1.4744241784551382,37
+Accessibility For Persons With Disabilities In Autonomous Transport,subtopic,Urban Autonomous Vehicles,Smart City,0.9881386938086028,1.189186933429002,43
+Smart Crosswalks,subtopic,Urban Mobility,Smart City,1.4555363203299017,0.4425998143385028,40
+Automated Public Transport Fare Collection,subtopic,Intelligent Transportation Systems,Smart City,1.3445358304371045,-2.4527974636795937,41
+Virtual Power Plants (Vpps),subtopic,Smart Grids,Smart City,-0.274398645061052,1.0713866558753893,30
+Smart Water And Wastewater Management,subtopic,Energy Management,Smart City,0.8848869725703893,3.1998628317729665,49
+Adaptive Infrastructure Design,subtopic,Sustainable Infrastructure,Smart City,2.0449279814386574,0.9347632176841885,38
+Real-Time Monitoring Of Government Services,subtopic,Digital Governance,Smart City,-1.7981106110101681,-2.7702906623424557,49
+Connected Fleet Management,subtopic,Iot In Cities,Smart City,0.28815985745591566,-3.6933535360763363,33
+Adaptive Lighting Control,subtopic,Smart Buildings,Smart City,2.2712120116765724,0.3906647008127785,35
+Smart Material Recovery Facilities,subtopic,Waste Management,Smart City,-1.2683213467691166,0.47959481277344584,33
+Smart Water Grids,subtopic,Water Management,Smart City,0.3429367241945283,2.215195608555728,40
+Civic Hacktivism Initiatives,subtopic,Civic Engagement,Smart City,0.29730935024762917,-0.21955899564976067,40
+Smart Public Transportation Security,subtopic,Public Safety,Smart City,-1.606159690085312,-1.0462581907003288,35
+Autonomous Drones For Environmental Surveillance,subtopic,Environmental Monitoring,Smart City,0.4348916907787384,-1.9084702194520324,48
+Mixed-Use Development Planning,subtopic,Urban Planning Analytics,Smart City,-1.0225521515926195,-2.3046509526671297,49
+Citizen Engagement Platforms For Street Lighting,subtopic,Smart Street Lighting,Smart City,1.0657024572535154,0.9273468506405029,48
+Smart Water Features In Urban Parks,subtopic,Urban Green Spaces,Smart City,0.8063636103370609,1.5616371950850485,45
+Virtual Town Hall Meetings,subtopic,E-Government Services,Smart City,-1.6663265801903508,2.307460368395993,36
+Machine Learning For Air Quality Pattern Recognition,subtopic,Air Quality Monitoring,Smart City,0.03686831933076791,-0.04636823818758935,43
+Collaboration With Ride-Sharing Services,subtopic,Smart Parking Solutions,Smart City,-0.7540329294947306,-1.574838357473761,43
+Autonomous Vehicle Sensor Technologies,subtopic,Urban Autonomous Vehicles,Smart City,0.9264872943430829,1.1128774907465024,45
+Traffic Enforcement Technologies,subtopic,Urban Mobility,Smart City,1.0299868787340496,0.38690200176690326,41
+Vehicle Platooning Systems,subtopic,Intelligent Transportation Systems,Smart City,1.0328743672515979,-2.5749068451884223,47
+Grid Voltage Stability Solutions,subtopic,Smart Grids,Smart City,-0.32256345721793944,1.073279912606029,35
+Cognitive Buildings For Energy Optimization,subtopic,Energy Management,Smart City,0.8106281928594847,2.8280181142247884,45
+Microgrid Implementation,subtopic,Sustainable Infrastructure,Smart City,1.901730882084686,1.367906049701914,39
+Virtual Town Halls,subtopic,Digital Governance,Smart City,-1.9424680169138504,-2.3029504680325052,32
+Precision Agriculture Using Iot,subtopic,Iot In Cities,Smart City,0.3034366238824846,-3.8891826702742716,35
+Smart Meeting Room Management,subtopic,Smart Buildings,Smart City,2.304182619550948,0.4259093692766729,30
+Robotics In Waste Sorting,subtopic,Waste Management,Smart City,-1.5126008509502267,0.52793049447821,43
+Weather Forecasting For Water Management,subtopic,Water Management,Smart City,0.8243463651519479,2.417436038923153,34
+Citizen Journalism Platforms,subtopic,Civic Engagement,Smart City,0.06776316018009218,-0.34474038820121367,33
+Surveillance-Free Public Spaces,subtopic,Public Safety,Smart City,-1.528368127147347,-0.8607396852667089,38
+Mobile Apps For Reporting Environmental Concerns,subtopic,Environmental Monitoring,Smart City,0.331856020515869,-1.9387547764158148,32
+Real Estate Market Trend Analysis,subtopic,Urban Planning Analytics,Smart City,-1.7357213559652478,-2.3668650543257725,40
+Artistic And Interactive Street Lighting,subtopic,Smart Street Lighting,Smart City,1.2856324237369032,0.8071950582956229,34
+Integration Of Green Spaces In Urban Planning,subtopic,Urban Green Spaces,Smart City,0.789833823554393,0.9011913830918086,46
+Blockchain For Secure Government Transactions,subtopic,E-Government Services,Smart City,-1.5220951931535738,2.2611566702833903,39
+Collaboration With Industries For Sustainable Emission Practices,subtopic,Air Quality Monitoring,Smart City,0.13758950024669747,-0.13746726638590778,37
+Autonomous Vehicle Parking Solutions,subtopic,Smart Parking Solutions,Smart City,-1.007641800748647,-1.6259609929204546,34
+Environmental Impact Of Autonomous Transportation,subtopic,Urban Autonomous Vehicles,Smart City,1.1552575998266503,0.8249759709381765,43
+Traffic Simulation Modeling,subtopic,Urban Mobility,Smart City,0.9268541312182694,0.6894584037626446,46
+Smart Intersection Technologies,subtopic,Intelligent Transportation Systems,Smart City,1.0788808185027763,-2.5291541570054297,47
+Predictive Maintenance For Grid Infrastructure,subtopic,Smart Grids,Smart City,-0.33270499392149694,1.08327475334541,35
+Integration Of Iot In Energy Management,subtopic,Energy Management,Smart City,0.8044615053297421,3.2131728957560792,35
+Water-Saving Technologies,subtopic,Sustainable Infrastructure,Smart City,2.0825869616666037,1.1965378896486065,32
+Artificial Intelligence In Governance,subtopic,Digital Governance,Smart City,-2.1898731987864104,-2.559582589262458,35
+Smart Cameras And Surveillance,subtopic,Iot In Cities,Smart City,0.14299646793647838,-3.5586039674213836,41
+Virtual Concierge Services,subtopic,Smart Buildings,Smart City,2.2545978848439017,0.42680807759031053,38
+Advanced Analytics For Waste Forecasting,subtopic,Waste Management,Smart City,-1.4390149894545556,0.4703213654384426,36
+Community-Based Water Quality Monitoring,subtopic,Water Management,Smart City,0.7187161662294763,2.1649195291166476,34
+Civic Engagement Metrics And Analytics,subtopic,Civic Engagement,Smart City,0.28753253033427845,-0.23315435550965924,45
+Public Safety Training Simulations,subtopic,Public Safety,Smart City,-1.381601758501234,-0.9221339215675951,49
+Smart Waste Management For Environmental Sustainability,subtopic,Environmental Monitoring,Smart City,0.6282335167531877,-1.9409493747427637,49
+Noise And Air Quality Impact Analysis,subtopic,Urban Planning Analytics,Smart City,-1.4137002208434117,-2.237903129233809,33
+Street Light Positioning For Enhanced Visibility,subtopic,Smart Street Lighting,Smart City,1.429601752042147,0.8254259538635981,35
+Environmental Education Programs In Parks,subtopic,Urban Green Spaces,Smart City,1.1259647916260827,1.3711848372611126,33
+Geospatial Information Systems (Gis) For Government Planning,subtopic,E-Government Services,Smart City,-1.7208675891721492,2.077923929327173,31
+Integration With Weather Forecasting For Air Quality Management,subtopic,Air Quality Monitoring,Smart City,0.2975027189875412,-0.18322018834113707,39
+Smart Parking For Bike And Scooter Sharing,subtopic,Smart Parking Solutions,Smart City,-0.7686536594841766,-1.770820228853705,46
+Collaboration With Smart Infrastructure For Autonomy,subtopic,Urban Autonomous Vehicles,Smart City,1.3497574251433528,1.2367850635276278,33
+Urban Air Mobility,subtopic,Urban Mobility,Smart City,1.2966795815801182,0.4940880526398894,35
+Smart Traffic Monitoring And Control Apps,subtopic,Intelligent Transportation Systems,Smart City,0.8265979778531419,-2.54324758410919,35
+Grid Reliability And Quality Monitoring,subtopic,Smart Grids,Smart City,-0.443142729263282,1.2493256147949539,49
+Grid-Interactive Efficient Buildings,subtopic,Energy Management,Smart City,0.5717951334906599,2.9144151237751643,38
+Sustainable Infrastructure Policy Development,subtopic,Sustainable Infrastructure,Smart City,1.9071611685912115,1.1136436014579767,50
+Predictive Analytics For Policy Planning,subtopic,Digital Governance,Smart City,-1.9391696814878154,-2.430336051544026,36
+Iot For Social Inclusion,subtopic,Iot In Cities,Smart City,-0.03409508195721053,-4.150762611316232,48
+Ai-Driven Building Operations,subtopic,Smart Buildings,Smart City,2.025123477054277,0.3532016513855903,36
+Smart Waste Bin Location Optimization,subtopic,Waste Management,Smart City,-1.3924797398235227,0.6764094403378624,50
+Water Infrastructure Resilience,subtopic,Water Management,Smart City,0.5722062703055409,2.4293952979104474,30
+Online Civic Training Programs,subtopic,Civic Engagement,Smart City,-0.06347220349218415,-0.3397082522682241,41
+Mobile Apps For Reporting Suspicious Activity,subtopic,Public Safety,Smart City,-1.230914402264135,-1.3603387375647584,50
+Satellite Imaging For Environmental Observations,subtopic,Environmental Monitoring,Smart City,0.32340131303497066,-1.7643990675031211,43
+Infrastructure Resilience Analytics,subtopic,Urban Planning Analytics,Smart City,-1.4743950695271577,-2.3008229537991327,40
+Integration With Smart City Infrastructure,subtopic,Smart Street Lighting,Smart City,1.4804163575530964,1.1600872164121008,46
+Urban Green Space Resilience Planning,subtopic,Urban Green Spaces,Smart City,0.8080041037612252,1.317914815256912,36
+Digital Cultural Heritage Preservation,subtopic,E-Government Services,Smart City,-1.6874991406273891,2.06836957544687,35
+Air Quality Data Sharing Platforms,subtopic,Air Quality Monitoring,Smart City,0.028546500588111354,0.019509792349501908,48
+Public Awareness Campaigns On Smart Parking,subtopic,Smart Parking Solutions,Smart City,-1.1337095573509428,-1.5977901701429795,32
+Autonomous Vehicle Simulation And Testing,subtopic,Urban Autonomous Vehicles,Smart City,1.288492051685851,1.4362550386930903,45
+Smart Transportation Policy Planning,subtopic,Urban Mobility,Smart City,1.2768902347769993,0.7222762689135637,34
+Traffic Simulation And Modeling Tools,subtopic,Intelligent Transportation Systems,Smart City,1.2909697013528594,-2.467036097391214,45
+Integrated Volt-Var Control (Ivvc),subtopic,Smart Grids,Smart City,-0.24029543003131554,1.3404103123757911,46
+Energy Conservation Policies And Initiatives,subtopic,Energy Management,Smart City,0.801146563019272,3.1948123702559377,45
+Carbon-Neutral Construction Practices,subtopic,Sustainable Infrastructure,Smart City,1.965247899231093,1.3807339232385747,49
+Cyber-Resilient Governance Systems,subtopic,Digital Governance,Smart City,-1.7337426853504476,-2.5484943157913476,44
+Intelligent Waste Sorting Systems,subtopic,Iot In Cities,Smart City,-0.06619026978336265,-3.890215972596113,45
+Smart Home Integration Within Buildings,subtopic,Smart Buildings,Smart City,2.417851660023884,0.05584916113745825,50
+Mobile Apps For Reporting Illegal Dumping,subtopic,Waste Management,Smart City,-1.1744933679655987,0.9625073270549879,36
+Mobile Apps For Reporting Water Issues,subtopic,Water Management,Smart City,0.46711317187826773,2.663499353888467,42
+Youth Engagement Platforms In Smart Cities,subtopic,Civic Engagement,Smart City,0.12859008501494243,-0.5439227031958027,49
+Crisis Communication Systems,subtopic,Public Safety,Smart City,-1.3831448154478725,-1.2270662078739218,38
+Citizen Science Initiatives For Environmental Data Collection,subtopic,Environmental Monitoring,Smart City,0.689755730357346,-1.5010695143424901,50
+Urban Mobility Pattern Analysis,subtopic,Urban Planning Analytics,Smart City,-1.8174733204033557,-2.2244627314805903,40
+Urban Planning With Smart Street Lighting Analytics,subtopic,Smart Street Lighting,Smart City,1.6758658590710804,1.019201254046078,38
+Events And Activities Planning For Green Spaces,subtopic,Urban Green Spaces,Smart City,0.7458466216831203,1.303442694797701,34
+Civic Engagement Platforms For Government-Community Interaction,subtopic,E-Government Services,Smart City,-1.5322060479601236,2.0379183933186926,39
+Policy Initiatives For Air Quality Improvement In Smart Cities,subtopic,Air Quality Monitoring,Smart City,0.05702678807170018,-0.15823971385577348,41
+Integration With Urban Planning For Parking Optimization,subtopic,Smart Parking Solutions,Smart City,-0.9444966305751915,-1.4074667113027266,49
+Urban Resilience Planning With Autonomous Transport,subtopic,Urban Autonomous Vehicles,Smart City,1.184119923768456,1.1710155499538115,46
